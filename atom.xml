@@ -12,8 +12,7 @@ layout: none
 	{% for post in site.posts limit:25 %}<entry>
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
-    {{ nowunix }} == {{ posttime }}<br />
-    <title>{{ post.title }}</title>
+    <title>{{ post.title }} - {{ nowunix }} == {{ posttime }}<br /></title>
     <link href="http://apievangelist.com{{ post.url }}"/>
     <updated>{{ post.atomdate | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
     <content><![CDATA[{{ post.content | strip_html | xml_escape }}]]></content>
