@@ -13,7 +13,6 @@ layout: none
     <title>{{ post.title }}</title>
     <link href="http://apievangelist.com{{ post.url }}"/>
     <updated>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
-    <content><![CDATA[{{ post.content | strip_html | xml_escape }}]]></content>
     <id>http://apievangelist.com{{ post.url }}</id>
   {% endif %}</entry>{% endfor %}
 </feed>
