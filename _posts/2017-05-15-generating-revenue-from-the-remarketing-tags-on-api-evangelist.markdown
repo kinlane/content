@@ -6,7 +6,7 @@ tags:
 - Marketing
 - Advertising
 - Tracking
-Image: "/uploads/remarketing_products_sm.jpg"
+image: "/uploads/remarketing_products_sm.jpg"
 ---
 
 ![remarketing_products_sm.jpg](/uploads/remarketing_products_sm.jpg)
