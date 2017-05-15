@@ -1,5 +1,5 @@
 ---
-title: One Layer Of API Ranking Will Be Domain Scoring
+title: One Layer Of An API Ranking System Will Need To Be Domain Scoring
 date: 2017-05-15 09:07:00 Z
 tags:
 - Ranking
