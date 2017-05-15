@@ -6,7 +6,7 @@ tags:
 - Marketing
 - Advertising
 - Tracking
-image: "/uploads/remarketing_products_sm.jpg"
+image: https://s3.amazonaws.com/kinlane-productions/google/remarketing_products_sm.jpg
 ---
 
 ![remarketing_products_sm.jpg](/uploads/remarketing_products_sm.jpg)
