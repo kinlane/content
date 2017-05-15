@@ -11,5 +11,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+  whatever:
+    title: Whatever
+    output: true
 theme: jekyll-theme-cayman
 layout: post
