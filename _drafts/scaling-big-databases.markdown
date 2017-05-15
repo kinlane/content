@@ -1,8 +1,6 @@
 ---
 title: Scaling Big Databases
 date: 2017-05-15 19:25:00 Z
-categories:
-- whatever
 tags:
 - Data
 ---
