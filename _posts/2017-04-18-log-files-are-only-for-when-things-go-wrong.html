@@ -1,11 +1,13 @@
 ---
+title: Log Files Are Only For When Things Go Wrong
+date: 2017-04-18 00:00:00 Z
 layout: post
-title: 'Log Files Are Only For When Things Go Wrong'
 source: http://apievangelist.com/2017/04/18/log-files-are-only-for-when-things-go-wrong/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/logging_truck_accident.jpg
-atomdate: 2017-04-18T15:00:00-07:00
+atomdate: 2017-04-18 22:00:00 Z
 ---
+
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/logging_truck_accident.jpg" alt="" width="40%" align="right" /></p>
 <p>I'm always amazed at the number of companies I work with that do not consider log files a first class data system. Log files for servers, web servers, and other systems or applications are only for when something goes wrong. I have to admit, I'm in the same situation. I have APIs on the logging for my API management layer, but I do not have easy API access to my Linux servers or the Apache web server that runs on top of them.&nbsp;</p>
 <p>I know that some companies use popular solutions like New Relic to do this, and <a href="http://logging.apievangelist.com/organizations/">I keep track on about eight API friendly logging solutions</a>. I'm going to have to spend some time in my <a href="http://logging.apievangelist.com">API logging research</a> digging around for a solution I can use to stand up an API for my server(s). I'm not looking for any tooling on top of it, just something dead simple to parse my log files, put into a database, and allow me to wrap in a simple API for developing things on top of it.</p>
