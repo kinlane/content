@@ -1,8 +1,6 @@
 ---
 title: Generating Revenue From The Remarketing Tags On API Evangelist
 date: 2017-05-15 12:00:00 Z
-categories:
-- Monetization
 tags:
 - SEO
 - Marketing
