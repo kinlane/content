@@ -1,6 +1,12 @@
 ---
 title: The Human Services Schema Defines The Storage And The API Defines Access
-date: 2017-05-16 18:30:00 Z
+date: 2017-05-16 12:00:00 Z
+tags:
+- HSDS
+- Open Referral
+- City Government
+- Human Services
+- Vendors
 ---
 
 I'm comparing five separate vendor API implementations with the Human Services API standard I'm working on right now. I'm working to push version 1.0 of the API towards a 1.1 with some incremental, forward-thinking changes. 
