@@ -1,6 +1,7 @@
 ---
 layout: none
 ---
+
 [
 	{% for post in site.posts limit:25 %}{
     "title": "{{ post.title }}",
