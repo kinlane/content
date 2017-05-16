@@ -6,7 +6,7 @@ layout: none
     "title": "{{ post.title }}",
     "url": "http://apievangelist.com{{ post.url }}",
     "updated": "{{ post.atomdate | date: "%Y-%m-%dT%H:%M:%SZ" }}",
-    "content": "{{ post.content | escape }}",
+    "content": "{{ post.content | xml_escape | escape }}",
     "image": "{{ post.image }}"{% if forloop.last %}{% else %},{% endif %}
   }{% endfor %}
 ]
