@@ -7,7 +7,7 @@ layout: none
     "url": "http://apievangelist.com{{ post.url }}",
     "updated": "{{ post.atomdate | date: "%Y-%m-%dT%H:%M:%SZ" }}",
     "image": "{{ post.image }}",
-    "github_user": "{{ post.github_user }}",
-    "github_repo": "{{ post.github_repo }}"
+    "github_user": "{{ site.github_user }}",
+    "github_repo": "{{ site.github_repo }}"
   }{% if forloop.last %}{% else %},{% endif %}{% endfor %}
 ]
