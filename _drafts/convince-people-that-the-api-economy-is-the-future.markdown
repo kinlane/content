@@ -1,6 +1,14 @@
 ---
 title: Convince People That The API Economy Is The Future
 date: 2017-05-17 01:19:00 Z
+tags:
+- Acquisitions
+- Investments
+- Data
+- iPaaS
+- Cloud
+- Economy
+- Business of APIs
 ---
 
 One of my clients asked me for fifteen bullet points what I'd say to help convince folks at his company that APIs are the future, and can have viable business models. While helping convince people of the market value of APIs is not really my game as much as it used to be, I'm still interested in putting on my business of APIs hat, and play this game to see what I can brainstorm.
@@ -19,7 +27,9 @@ Here are the fifteen stories from the API space that I would share with folks to
 11. iPaaS - Integration platform as service providers like IFTTT and Zapier put APIs in the hands of the average business users, allowing them to orchestrate their presence and operations across the growing number of platforms we depend on each day.
 12. Big Data - Like it or not, data is often seen as the new oil, elevating the value of data, and increasing investment into acquiring this valuable data. APIs are the pipes for everything big data, analysis, visualization, prediction, and everything you need to quantify markets using data.
 13. Investments - Investment in API-focused companies have now slowed in a decade. VC's are waking up to the competitive advantage of having APIs, and their portfolios are continuing to reflect the value APIs bring to the table.
-14. Acquisitions - Google buying Apigee, Red Hat buying 3Scale, Oracle buying Apiary, are just a few of the recent high profile API related acquisitions. Successful API startups are a valuable acquisition target, continuing to show the viability of building API businesses.
+14. Acquisitions - [Google buying Apigee, Red Hat buying 3Scale, Oracle buying Apiary, are just a few of the recent high profile API related acquisitions](http://acquisitions.apievangelist.com/news/). Successful API startups are a valuable acquisition target, continuing to show the viability of building API businesses.
 15. Regulations - We are beginning to see the government move beyond just open data and getting into the API regulations and policy arena, with banking and PSD2 in Europe, FHIR in healthcare from Health and Human Services in the U.S., and other movements within a variety of sectors. As the value of APIs grows, the need for government to step in and provide guidance for existing industries like taxicabs with Uber, or newer media outlets like Facebook or Twitter, when it comes to social.
 
+If I was sitting in a room full of executives, these are the fifteen points I'd bring up to drive a conversation around the business viability of doing APIs. There are many other stories I'd include, but I wanted to work from a variety of perspectives that would speak to leadership across a potentially wide variety of business sectors.
 
+Honestly, APIs really don't excite me at VC scale, but I get it. I think Amazon, Google, Azure, and a handful of API rock stars are going to dominate the conversation moving forward. However there will be a lot of opportunity in top performing business sectors, as well as in the long tail, for the rest of us little guys. Hopefull in the cracks we can still innovate, while the tech giants partner with other industry giants and continue to gobble up API startups along the way.
