@@ -1,5 +1,5 @@
 ---
-title: Using Liquid To Filter Out The Future On My Blogs
+title: Liquid To Filter Out The Future On My Blogs
 date: 2017-05-17 15:00:00 Z
 tags:
 - Kin Lane
@@ -15,15 +15,15 @@ I wanted to be able to just publish at least a weeks worth of blog posts, but th
 
 First I set a variable to tell me what the date and time were for any given moment:
 
-> {% capture nowunix %}{{&#x27;now&#x27; | date: &#x27;%s&#x27;}}{% endcapture %}
+<script src="https://gist.github.com/kinlane/1b99291324e54b05e7ec5d3bcb621321.js"></script>
 
 Then I translated the publish date for each post into the same format as my definition for now (seconds):
 
-> {% capture posttime %}{{post.date | date: &#x27;%s&#x27;}}
+<script src="https://gist.github.com/kinlane/934de175203b5718c28954f3c5e7cf2e.js"></script>
 
 Then you just check to make sure each blog post that is being displayed using Liquid is truly from the past:
 
-> {% if posttime &#x3C; nowunix %}[..]{% endif %}
+<script src="https://gist.github.com/kinlane/2f446ff6a76ec355c0647bf13a282eb1.js"></script>
 
 Voila, a filter for the future on my blog listing page, and the RSS or Atom feeds. After this, I published a schedule.xml feed which showed all my blog posts, even for the future. I use this to schedule Tweets, and other social media posts for my blogs throughout the week--allowing my social media management tooling to see into the future when it comes to my blogs.
 
