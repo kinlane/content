@@ -1,5 +1,5 @@
 ---
-title: Liquid To Filter Out The Future On My Blogs
+title: Using Liquid To Filter Out The Future On My Blogs
 date: 2017-05-17 15:00:00 Z
 tags:
 - Kin Lane
