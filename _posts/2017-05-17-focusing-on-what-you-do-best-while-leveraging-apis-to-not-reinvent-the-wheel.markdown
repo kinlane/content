@@ -1,6 +1,8 @@
 ---
 title: Focusing On What You Do Best While Leveraging APIs To Not Reinvent The Wheel
-date: 2017-05-17 07:01:00 Z
+date: 2017-05-17 15:00:00 Z
+tags:
+- Analysis
 image: https://s3.amazonaws.com/kinlane-productions/keen_logo_dark.png
 ---
 
