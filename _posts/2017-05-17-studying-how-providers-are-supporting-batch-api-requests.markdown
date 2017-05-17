@@ -1,6 +1,9 @@
 ---
 title: Studying How Providers Are Supporting Batch API Requests
-date: 2017-05-17 06:05:00 Z
+date: 2017-05-17 12:00:00 Z
+tags:
+- Batch
+- Design
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-bulk-requests.png
 ---
 
