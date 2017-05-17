@@ -1,5 +1,5 @@
 ---
-title: Poor Man Jekyll Post Scheduling
+title: Liquid To Filter Out The Future On My Blogs
 date: 2017-05-17 15:00:00 Z
 tags:
 - Kin Lane
@@ -15,15 +15,15 @@ I wanted to be able to just publish at least a weeks worth of blog posts, but th
 
 First I set a variable to tell me what the date and time were for any given moment:
 
-> {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+> {% capture nowunix %}{{&#x27;now&#x27; | date: &#x27;%s&#x27;}}{% endcapture %}
 
 Then I translated the publish date for each post into the same format as my definition for now (seconds):
 
-> {% capture posttime %}{{post.date | date: '%s'}}
+> {% capture posttime %}{{post.date | date: &#x27;%s&#x27;}}
 
 Then you just check to make sure each blog post that is being displayed using Liquid is truly from the past:
 
-> {% if posttime < nowunix %}[..]{% endif %}
+> {% if posttime &#x3C; nowunix %}[..]{% endif %}
 
 Voila, a filter for the future on my blog listing page, and the RSS or Atom feeds. After this, I published a schedule.xml feed which showed all my blog posts, even for the future. I use this to schedule Tweets, and other social media posts for my blogs throughout the week--allowing my social media management tooling to see into the future when it comes to my blogs.
 
