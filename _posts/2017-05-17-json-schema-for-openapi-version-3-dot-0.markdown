@@ -1,6 +1,6 @@
 ---
 title: JSON Schema For OpenAPI Version 3.0
-date: 2017-05-17 05:35:00 Z
+date: 2017-05-17 09:00:00 Z
 image: https://s3.amazonaws.com/kinlane-productions/json/json-schema.png
 ---
 
