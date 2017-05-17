@@ -7,9 +7,9 @@ One of my clients asked me for fifteen bullet points what I'd say to help convin
 
 Here are the fifteen stories from the API space that I would share with folks to help them understand the potential.
 
-1. Web - 
-2. Cloud - 
-3. Mobile - 
+1. Web - Remember asking about the viability about the web? That was barely 20 years ago. APIs are just the next iteration of the web, and instead of just delivering HTML to humans for viewing in the browser, it is about sharing machine-readable versions for use in mobile, devices, and other types of applications.
+2. Cloud - [The secret to Amazon's success has been APIs](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/). Their ability to disrupt retail commerce, and impact almost every other business sector with the cloud was API-driven.
+3. Mobile - APIs are how data, content, and algorithms are delivered to mobile devices, as well as provides developers with access to other device capabilities like the camera, GPS, and other essential aspects of our ubiquitous mobile devices.
 4. Amazon - 
 5. SalesForce - 
 6. Twitter - 
@@ -18,7 +18,7 @@ Here are the fifteen stories from the API space that I would share with folks to
 9. Apigee - 
 10. Automobiles - 
 11. iPaaS - 
-12. Voice - 
+12. Big Data - 
 13. Investments - 
 14. Acquisitions -
 15. Regulations - 
