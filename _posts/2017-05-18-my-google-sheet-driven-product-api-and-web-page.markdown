@@ -1,6 +1,12 @@
 ---
 title: My Google Sheet Driven Product API And Web Page
-date: 2017-05-18 07:11:00 Z
+date: 2017-05-18 15:00:00 Z
+tags:
+- Products
+- Deployment
+- Google Sheets
+- Github
+- Jekyll
 image: http://apievangelist.com/images/product-square.png
 ---
 
