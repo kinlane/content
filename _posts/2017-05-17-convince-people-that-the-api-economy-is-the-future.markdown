@@ -1,5 +1,5 @@
 ---
-title: Convince People That The API Economy Is The Future
+title: 15 Topics To Help Folks See The Business Potential Of APIs
 date: 2017-05-17 01:19:00 Z
 tags:
 - Acquisitions
