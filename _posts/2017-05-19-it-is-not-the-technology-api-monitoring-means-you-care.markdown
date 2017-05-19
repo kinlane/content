@@ -1,5 +1,5 @@
 ---
-title: 'It Is Not The Technology: API Monitoring Means You Care'
+title: 'Its Not Just The Technology: API Monitoring Means You Care'
 date: 2017-05-19 14:00:00 Z
 tags:
 - Monitoring
