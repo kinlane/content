@@ -5,9 +5,10 @@ categories:
 - Monetization
 tags:
 - Oil
+image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-extraction.png
 ---
 
-When you hang out in startup circle you hear the phrase, "data is the new oil" a lot. Getting rights to, mining and extracting, and generating revenue from data is big business, and VC, Hedge Funds, and even government are getting in on the game. Whether it is gathered from private or public sectors, or in your living room and pocket, everyone wants access to your data.
+<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-extraction.png" align="right" width="35%" /></p>When you hang out in startup circle you hear the phrase, "data is the new oil" a lot. Getting rights to, mining and extracting, and generating revenue from data is big business, and VC, Hedge Funds, and even government are getting in on the game. Whether it is gathered from private or public sectors, or in your living room and pocket, everyone wants access to your data.
 
 One sign that this discussion is reaching new levels, [is that the oil industry is talking about data being the new oil](http://oilprice.com/Energy/Energy-General/Is-Big-Data-The-New-Big-Oil.html). That is right. I'm increasingly coming across stories about big data and the revenue opportunities derived from data when it comes to IoT, social, and many other trending sectors. The big oil supply chain has access to a lot of data to support its efforts, as well as generated from the exhaust of daily oil production to consumption.
 
