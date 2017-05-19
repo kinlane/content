@@ -7,3 +7,5 @@ I was reading about [Google's TensorFlowLite in Techcrunch](https://techcrunch.c
 
 The OED and other dictionary and language content API teams wanted to learn more about on-device API deployment. I have asked when we will have containers natively on our routers a while ago, but I'd also like to add to that request, and ask when will we have a stack of containers on device where we can deploy API resources that can be used by applications, and augment the existing on-device hardware and OS APIs.
 
+API providers should be able to deploy their APIs exactly here they are needed. API deploy, management, monitoring, logging, and analytics should exist by default in these micro-containerized environments on our devices. Whether it's our mobile phones, our automobiles, or the weather, solar, or other industrial device integration, we are going to new API-driven data, ML, AI, augmented, and other resources on-device, in a localized environment.
+
