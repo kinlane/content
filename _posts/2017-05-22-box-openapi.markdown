@@ -1,10 +1,11 @@
 ---
-title: Box OpenAPI
+title: Box Goes All In On OpenAPI
 date: 2017-05-22 09:00:00 Z
 tags:
 - Definitions
 - Documents
 - Storage
+image: https://s3.amazonaws.com/kinlane-productions/box/embracing-openapi-at-box
 ---
 
 <p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/box/embracing-openapi-at-box.png" align="right" width="35%" /></p>Box has gone all in on OpenAPI. [They have published an OpenAPI for their document and storage API on Github](https://github.com/box/box-openapi), where it can be used in a variety of tools and services, as well as be maintained as part of the Box platform operations. Adding to the number of high-profile APIs managing their OpenAPI definitions on Github, like Box, and [the NY Times](http://apievangelist.com/2017/03/01/new-york-times-manages-their-openapi-using-github/).
