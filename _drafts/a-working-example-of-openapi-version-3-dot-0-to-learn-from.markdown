@@ -1,6 +1,6 @@
 ---
 title: A Working Example Of OpenAPI Version 3.0 To Learn From
-date: 2017-05-22 07:14:00 Z
+date: 2017-05-22 12:00:00 Z
 tags:
 - Definitions
 - OpenAPI
