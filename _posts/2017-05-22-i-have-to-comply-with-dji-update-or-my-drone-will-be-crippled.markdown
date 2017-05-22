@@ -7,6 +7,7 @@ tags:
 - Internet of Things
 - Regulations
 - Governance
+image: http://dronerecovery.org/img/postcover/closed.jpg
 ---
 
 <p><img style="padding: 15px;" src="http://dronerecovery.org/img/postcover/closed.jpg" align="right" width="40%" /></p>I received this email from DJI about my drone this weekend, telling me about an upcoming update this week where I will be forced to comply with an update that is designed to limit where I can operate my drone. It is a pretty interesting look at the future of this Internet of Things beast we've unleashed.
