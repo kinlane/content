@@ -4,6 +4,7 @@ date: 2017-05-22 07:14:00 Z
 tags:
 - Definitions
 - OpenAPI
+image: https://s3.amazonaws.com/kinlane-productions/mermade/mermade-swagger2openapi-logo.png
 ---
 
 <p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/mermade/mermade-swagger2openapi-logo.png" align="right" width="40%" /></p>I learn almost everything I know by reverse engineering what I come across doing my monitoring of the API space. I feel it is important for leaders in the API space to share a significant portion of our work publicly, and tell the story behind our work so that others can learn from us. Whether folks realize it or not, this is why much of the wider API community works as it does, and has accumulated much of the forward motion we all enjoy today.
