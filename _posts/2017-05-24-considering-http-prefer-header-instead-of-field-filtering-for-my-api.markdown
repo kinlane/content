@@ -4,6 +4,7 @@ date: 2017-05-24 12:00:00 Z
 tags:
 - Definitions
 - Design
+image: https://s3.amazonaws.com/kinlane-productions/http-prefer-header.png
 ---
 
 <p><a href="http://www.freshblurbs.com/blog/2015/06/25/api-representations-prefer.html"><img src="https://s3.amazonaws.com/kinlane-productions/http-prefer-header.png" align="right" width="25%" style="padding: 15px;" /></a></p>I am [working my way through a variety of API design considerations for the Human Services Data API (HSDA)](http://apievangelist.com/2017/05/24/my-api-design-checklist-for-this-version-of-the-human-services-data-api/)that I'm working on with Open Referral. I was working through my thoughts on how I wanted to approach the filtering of the underlying data schema of the API, and Shelby Switzer ([@switzerly](https://twitter.com/switzerly)) suggested I follow [Irakli Nadareishvili’s advice and consider using RFC 7240 -the Prefer Header for HTTP](http://www.freshblurbs.com/blog/2015/06/25/api-representations-prefer.html), instead of some of the commonly seen approaches to filtering which fields are returned in an API response.
