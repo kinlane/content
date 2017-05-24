@@ -13,22 +13,22 @@ Github Repo - I published it all in a Github repository for sharing with stakeho
 
 Then I reviewed the core elements of my API design to make sure I had everything I wanted to cover in this cycle, with the resources we have:
 
-* Domain(s)
-* Versioning
-* Paths
-* Actions
-* Verbs
-* Parameters
-* Headers
-* Body
-* Pagination
-* Data Filtering
-* Schema Filtering
-* Sorting
-* Operation ID
-* Requirements
-* Status Codes
-* Error Responses
+* Domain(s) - Right now I'm going with api.example.com, and developer.example.com for the portal.
+* Versioning - I know many of my friends are gonna give me grief, but I'm putting versioning in the URL, keeping things front and center, and in alignment with the versioning of the schema.
+* Paths - Really not much to consider here as the paths are derived from the schema definitions, providing a pretty simple, and intuitive design for paths--will continue adding guidance for future APIs.
+* Verbs - A major part of this release was making sure 100% of the surface area of the HSDS schema add the ability to POST, PUT, and DELETE, as well as just GET a response. I'm not addressing PATCH in this cycle, but it is on the roadmap.
+* Parameters - There are only a handful of query parameters present in the primary paths (organizations, locations, services, and a robust set for search. Other than that everything is mostly defined through path parameters, keeping things cleanly separated between path and query.
+* Headers - I'm only using headers for authentication. I'm also considering using the HTTP Prefer Header for schema filtering, but nothing else currently.  
+* Actions - Nothing to do here either, the API is pretty CRUD at this point, and I'm awaiting more community feedback before I add any more detailed actions beyond what is possible with the default verbs--when relevant I will add guidance to this area of the design.
+* Body - All POST and PUT methods use the body for request transport. There are no other uses of the body across the current design.
+* Pagination - I am just going with what is currently in place as part of v1.0 for the API, which uses page and per_page for handling this.
+* Data Filtering - The parameters for core resources (organizaitons, locations, and services all have a query parameter for filtering data, and the search path has a set of parameters for filtering data returned in response. Not adding anything new for this version.
+* Schema Filtering - I am taking [Irakli Nadareishvili's advice and going to go with  RFC 7240 - Prefer Header for HTTP](http://www.freshblurbs.com/blog/2015/06/25/api-representations-prefer.html), and craft some different representations when it comes to filtering the schema is returned.
+* Sorting - There is no sorting currently. I did some research in this area, but not going to make any recommendations until I hear more requests from consumers, and the community.
+* Operation ID - I went with camelCase for all API operation IDs, providing a unique reference to be included in the OpenaPI.
+* Requirements - Going through and making sure all the required fields are reflected in the definitions for the OpenAPI.
+* Status Codes - Currently I'm going to just reflect the 200 HTTP status code. I don't want to overwhelm folks with this release and gather more resources to invest in proper HTTP status code strategy.
+* Error Responses - Along with the status code work I will define a core set of definitions to be used across a variety of responses and HTTP statuses.
 * Media Types
 
 After being down in the weeds I wanted to step back and just think about some of the common sense aspects of API design:
