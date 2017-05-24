@@ -1,11 +1,12 @@
 ---
-title: Considering HTTP Prefer Header Instead Of Field Filtering For My API
+title: Considering Using HTTP Prefer Header Instead Of Field Filtering For This API
 date: 2017-05-24 00:09:00 Z
 ---
 
+I am working my way through a variety of API design considerations for the Human Services Data API (HSDA) that I'm working on with Open Referral. I was working through my thoughts on how I wanted to approach the filtering of the underlying data schema for the API, and Shelby Switzer ([@switzerly](https://twitter.com/switzerly)) suggested I follow [Irakli Nadareishvili’s advice and consider using RFC 7240 -the Prefer Header for HTTP](http://www.freshblurbs.com/blog/2015/06/25/api-representations-prefer.html), instead of some of the commonly seen approaches to filtering which fields are returned in an API response.
 
+I find this approach to be of interest for this Human Services Data API implementation because I want to lean on API design, over providing parameters for consumers to dial in the query they are looking for. While I'm not opposed to going down the route of providing a more parameter based approach to defining API responses, in the beginning I want to carefully craft endpoints for specific use cases, and I think the usage of the HTTP Prefer Header helps extend this to the schema, allowing me to craft simple, full, and specialized representations of the schema for a variety of use cases. 
 
+It adds a new dimension to API design for me. Since I've been using OpenAPI I've gotten better at considering the schema alongside the surface area of the APIs I design, showing how it is used in the request and response structure of my APIs. I like the idea of providing tailored schema in responses over allowing consumers to dynamically filter the schema that is returned using request parameters. At some point, I can see embracing a GraphQL approach to this, but I don't think that human service data stewards will always know what they want, and we need to invest in thoughtful API designs that reflect the useful editions of the schema. 
 
-http://www.freshblurbs.com/blog/2015/06/25/api-representations-prefer.html
-
-https://tools.ietf.org/html/rfc7240
+Early on, I like allowing API consumers to request minimal, standard or full schema for human service organizations, locations, and services, using the Prefer header, over adding another set of parameters that filter the fields. Before I introduce any more parameters to the surface area, I want to better understand some of the other aspects of taxonomy and metadata proposed as part of HSDS. At this point, I'm just learning about the Prefer header, and suggesting it as a possible solution for allowing human services API consumers to have more control over the schema that is returned without too much overhead.
