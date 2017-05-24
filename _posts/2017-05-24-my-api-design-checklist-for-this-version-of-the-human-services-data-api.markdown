@@ -40,5 +40,4 @@ After being down in the weeds I wanted to step back and just think about some of
 
 [I have a functioning demo of this v1.1 release](http://developer.open.referral.adopta.agency/documentation/), reflecting most of the design decisions above. While not a complete API design list, it provides me with a simple checklist to apply to this iteration of the Human Services Data API (HSDA). Since this design is more specification than actual implementation, this API design checklist can act as guidance for vendors and practitioners when designing their own APIs beyond the HSDS schema.
 
-
-
+Next, I'm going to tackle some of the API management, portal, and other aspects of operating a human services API. I'm looking to push my prototype to be a living blueprint of going from schema and OpenAPI to a fully functioning API with monitoring, documentation, and much more. The schema and OpenAPI is just the seed to be used across every step of a human services API life cycle.
