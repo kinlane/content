@@ -1,8 +1,10 @@
 ---
 title: My API Design Checklist For This Version Of The Human Services Data API
-date: 2017-05-24 05:01:00 Z
+date: 2017-05-24 09:00:00 Z
 tags:
 - Design
+- HSDS
+- HSDA
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design-checklist.png
 ---
 
