@@ -1,6 +1,12 @@
 ---
 title: Craft Your API Design Guide So You Can Move To Other Areas of Lifecycle
-date: 2017-05-25 17:59:00 Z
+date: 2017-05-25 12:00:00 Z
+tags:
+- Design
+- Definitions
+- Deployment
+- Management
+- Testing
 ---
 
 [I am working on an API definition and design guide for my human services API work](https://apievangelist.com/2017/05/24/my-api-design-checklist-for-this-version-of-the-human-services-data-api/), helping establish a framework for approaching API design as part of the human services data and API specification, but also for implementers to follow in their own individual deployments. Every time I work on the subject of API design, I'm reminded of how far behind the API sector is when it comes to standardizing what it is we do.
