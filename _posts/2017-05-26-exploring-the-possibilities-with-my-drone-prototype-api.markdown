@@ -1,6 +1,10 @@
 ---
 title: Exploring The Possibilities With My Drone Prototype API
-date: 2017-05-26 06:33:00 Z
+date: 2017-05-26 22:00:00 Z
+tags:
+- Drone Prototype
+- Drones
+- Prototypes
 ---
 
 <p><img src="https://s3.amazonaws.com/drone-recovery/bolanlake21.jpg" align="right" width="40%" style="padding: 15px;" /></p>I enjoy playing with what is possible when it comes to APIs, without all the overhead of actually operating the APIs. I've been exploring the world of drones over the last year and it is something that has inevitably collided with my API research, leaving me intrigued by what is possible with drone APIs, as I learn what existing drone providers are doing when it comes to APIs. 
