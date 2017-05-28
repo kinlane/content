@@ -1,6 +1,10 @@
 ---
-title: Apicurio Is The Open Source API Editor I Was Looking For
+title: Apicurio Is The Open Source Visual API Design Editor I Was Looking For
 date: 2017-05-28 03:10:00 Z
+tags:
+- Design
+- Editor
+- Open Source
 ---
 
 I've been wanting someone to create an open source API editor for some time, and now the folks over at Red Hat / 3Scale have delivered one [called Apicurio](http://www.apicur.io/). It is a web-based Angular2 app, for visually designing your APIs using OpenAPI.
