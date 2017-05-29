@@ -1,5 +1,5 @@
 ---
-title: Seven Years Of Dispatches From Front Lines Of API Description Wars
+title: Seven Years Of Dispatches From Front Lines Of The API Description Wars
 date: 2017-05-30 13:00:00 Z
 tags:
 - Alternate API Evangelist
