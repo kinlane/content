@@ -1,5 +1,5 @@
 ---
-title: Ethics In API Usage
+title: An Example Of API Ethics Out Of Cambridge University
 date: 2017-05-31 12:00:00 Z
 tags:
 - Ethics
