@@ -1,6 +1,6 @@
 ---
 title: API Providers Localizing Compute For Developers Using Serverless
-date: 2017-05-29 19:04:00 Z
+date: 2017-05-30 15:00:00 Z
 tags:
 - Serverless
 - Deployment
