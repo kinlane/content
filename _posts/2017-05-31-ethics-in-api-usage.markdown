@@ -6,6 +6,7 @@ tags:
 - API Evangelist
 - Universities
 - Social
+image: https://s3.amazonaws.com/kinlane-productions/university-of-cambridge/apply-magic-sauce-prediction-api.png
 ---
 
 <p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/university-of-cambridge/apply-magic-sauce-prediction-api.png" align="right" width="40%" /></p>I was doing some research into what was going on with the API landscape at universities and I came across the [Trait Prediction API from the University of Cambridge](https://applymagicsauce.com/about_us.html). I'm still studying what they have going on from a social API perspective, but I thought their approach to API ethics stood out as something I wanted to explore some more.
