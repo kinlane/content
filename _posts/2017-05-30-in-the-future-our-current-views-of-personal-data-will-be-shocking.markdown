@@ -10,7 +10,7 @@ tags:
 image: https://s3.amazonaws.com/kinlane-productions/algorotoscope/cyber-api-description-wars/api-specification-wars.png
 ---
 
-<p><img src="https://s3.amazonaws.com/kinlane-productions/algorotoscope/cyber-api-description-wars/api-specification-wars.png" align="right" width="40%" /></p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algorotoscope/cyber-api-description-wars/mosaic-face_internet_numbers.jpg" align="right" width="40%" /></p>
 
 The way we view personal data in this early Internet age will continue to change and evolve, until one day we are looking back at this period and find we are shocked regarding how we didn't see people's digital bits as their own, and something we should respect and protect the privacy and security of.
 
