@@ -1,6 +1,8 @@
 ---
-title: Localizing Compute And Storage For API Providers With Serverless
+title: API Providers Localizing Compute For Developers Using Serverless
 date: 2017-05-29 19:04:00 Z
+tags:
+- Serverless
 ---
 
 <p><img src="https://s3.amazonaws.com/kinlane-productions/twilio/twilio-sms-message.png" align="right" width="40%" style="padding: 15px;" /></p>[Twilio launched their Twilio Function this last week](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html), localizing serverless infrastructure for Twilio API consumers, when it comes to powering key functionality that Twilio brings to the table. This seems like a logical move for mature API providers, keeping in tune with shifts in how developers are integrating with APIs, and deploying their applications in a DevOps, continuous integration world.
