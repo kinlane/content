@@ -1,6 +1,9 @@
 ---
 title: Heavier Investment In API Training Will Be Necessary
-date: 2017-05-30 18:04:00 Z
+date: 2017-06-01 12:00:00 Z
+tags:
+- Support
+- Training
 ---
 
 <p><a href="https://github.com/blog/2369-join-virtual-classes-with-the-github-training-team"><img src="https://s3.amazonaws.com/kinlane-productions/github/github-education-training.jpg" align="right" width="35" style="padding: 15px;" /></a></a></p>[I was learning about the virtual classes that Github are offering](https://github.com/blog/2369-join-virtual-classes-with-the-github-training-team), as I was working on some basic API curriculum for some of my clients, and I was reminded of how important training and education is when it comes to technological adoption. Not everyone learns the same way, and not everyone is an autodidact, and providing training around any technology, platform, or service your company, institution, or government agency is adopting is important.
