@@ -1,6 +1,10 @@
 ---
 title: API Management Postman Collection
-date: 2017-05-31 19:21:00 Z
+date: 2017-06-01 10:00:00 Z
+tags:
+- Definitions
+- Postman
+- Github
 ---
 
 <p><a href="https://github.com/apigee/apigee-management-api-postman"><img style="padding: 15px" src="https://s3.amazonaws.com/kinlane-productions/apigee/apigee-postman-collection-on-github.png" align="right" width="40%" style="padding: 15px;" /></a></p>[I have been encouraging API providers to publish and manage their API definitions using Github similar to how you'd manage any code](http://apievangelist.com/2017/05/25/every-api-should-begin-with-a-github-repository/). Companies like Box and NY Times are publishing their OpenAPI definitions to a single repository, allowing partners and API consumers to pull the latest version of the API definition and use throughout the API lifecycle.
