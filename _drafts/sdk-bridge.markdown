@@ -15,6 +15,7 @@ Coding for Writers 1: Basic Programming: $18 (normally $45)
 
 Free and Open Source API Documentation Tools
 
-Diána Lakatos has written an excellent description of several free and open source tools that can read the standard API definition formats OpenAPI, RAML, and API Blueprint. In addition she covers API documentation tools that require non-standard formats, and general purpose open source documentation tools that can be used for API documentation that you may want to consider.
+Diána Lakatos has written an excellent description of several free and open source tools that can read the standard API definition formats OpenAPI, RAML, and API Blueprint. In addition, she covers API documentation tools that require non-standard formats, and general purpose open source documentation tools that can be used for API documentation that you may want to consider.
+
 She provides screenshots and links to demos for each of these tools. If you want a quick overview of the tools, scroll to the bottom to read the summary table.
 You can find the article here: Free and Open Source API Documentation Tools.
