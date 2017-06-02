@@ -1,6 +1,10 @@
 ---
-title: SDK Bridge
-date: 2017-06-01 23:21:00 Z
+title: API Documentation From SDK Bridge
+date: 2017-06-02 14:00:00 Z
+tags:
+- Documentation
+- Agencies
+- API Evangelist
 ---
 
 This post is a straight up copy and paste from an email newsletter I get from Peter Gruenbaum of [SDK Bridge](http://sdkbridge.com/). I am a big supporter of API service providers like SDK Bridge, who has been doing API documentation the entire time I've been the API Evangelist. Peter isn't looking to be the next big startup, he's just operating a successful API service that addresses one of the biggest problems API providers face--documentation. Some of my readers might not be aware these types of services exist, which is why I'm copy / pasting this, and helping spread the good word.
