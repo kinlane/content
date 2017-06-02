@@ -1,6 +1,11 @@
 ---
 title: Centers for Medicare & Medicaid Services API for Quality Payment Program Measures
-date: 2017-06-01 23:51:00 Z
+date: 2017-06-02 10:00:00 Z
+tags:
+- Healthcare
+- Federal Government
+- API Evangelist
+- OpenAPI
 image: https://s3.amazonaws.com/kinlane-productions/cms/cms-quality-payment-program.png
 ---
 
