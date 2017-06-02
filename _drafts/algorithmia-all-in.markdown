@@ -1,5 +1,5 @@
 ---
-title: Algorithmia All In
+title: Algorithmia All In On Video
 date: 2017-06-02 02:35:00 Z
 ---
 
