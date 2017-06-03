@@ -1,5 +1,5 @@
 ---
-title: APIS API
+title: Advanced Papyrological Information System (APIS) API
 date: 2017-06-03 05:09:00 Z
 ---
 
