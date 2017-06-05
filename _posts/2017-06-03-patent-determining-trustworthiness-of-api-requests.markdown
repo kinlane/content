@@ -1,6 +1,10 @@
 ---
 title: 'Patent US9462011: Determining trustworthiness of API requests'
 date: 2017-06-03 06:35:00 Z
+tags:
+- Security
+- Patents
+- API Evangelist
 ---
 
 I'm always fascinated by the patents that get filed related to APIs. Most just have an API that is part of the equation, but some of the patents are directly for an API process. It's no secret that I'm a patent skeptic. I'm not anti-patent, I just think the process is broken when it comes to the digital world, and specifically when it comes to APIs and interoperability. Here is one of those API patents that show just how broken things are:
