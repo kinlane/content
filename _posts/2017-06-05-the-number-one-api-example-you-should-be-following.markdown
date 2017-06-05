@@ -1,10 +1,11 @@
 ---
 title: An API You Should Consider Emulating When Crafting Your SaaS / API Business
-date: 2017-06-05 00:35:00 Z
+date: 2017-06-05 09:00:00 Z
 tags:
 - Business of APIs
 - API Evangelist
 - Links
+image: https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/
 ---
 
 <p><a href="https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/"><img src="https://s3.amazonaws.com/kinlane-productions/pinboard/pinboard-buys-delicious.png" align="right" width="35%" /></a></p>The [social bookmarking API Pinboard](https://pinboard.in/u:kinlane) is my favorite API. I feel like it is a model we should all be considering crafting our API-focused businesses. I've used Pinboard to curate what I do as the API Evangelist ever since 2011, and it has been one of the most stable and versatile APIs in my stack, doing one thing, and doing it well, reflecting everything that is API from a business perspective.
