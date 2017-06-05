@@ -1,5 +1,5 @@
 ---
-title: Auth0 Extensions
+title: Extending Your Apps Using Embeddable Serverless Webhooks
 date: 2017-06-05 16:00:00 Z
 tags:
 - Webhooks
