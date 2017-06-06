@@ -1,5 +1,6 @@
 ---
-title: Transparency Into Each Company Who Has Access To Our Social Data Via An API
+title: Transparency Around Every Company Who Has Access To Our Social Data Via An
+  API
 date: 2017-06-07 11:00:00 Z
 tags:
 - Transparency
