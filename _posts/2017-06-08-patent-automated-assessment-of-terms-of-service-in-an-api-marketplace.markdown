@@ -5,6 +5,7 @@ tags:
 - Terms of Service
 - Patents
 - API Evangelist
+image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-conditions.png
 ---
 
 <p><a href="http://terms-of-service.apievangelist.com/"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-conditions.png" align="right" width="25%" style="padding: 15px;" /></a></p>I'm reading a lot of [API patents](http://patents.apievangelist.com/) lately trying to understand the variety of approaches these "innovative" patent authors are using to help define the API space. Many of the API patents I have historically objected to tend to patent the technical detail that make the web work or significantly contributes to the integration benefits that an API delivers. Today's patent does all of this but is focused on patenting the legal details that are needed to make this whole API thing work at scale. 
