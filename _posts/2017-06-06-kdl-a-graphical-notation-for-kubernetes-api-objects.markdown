@@ -1,6 +1,10 @@
 ---
 title: 'KDL: A Graphical Notation for Kubernetes API Objects'
 date: 2017-06-06 20:50:00 Z
+tags:
+- Containers
+- Definitions
+- API Evangelist
 ---
 
 [I am learning about Kubernetes Deployment Language (KDL) today](https://blog.openshift.com/kdl-notation-kubernetes-app-deploy/), trying to understand their approach to defining their notion of Kubernetes API objects. It feels like an interesting evolution in how we define our infrastructure, and begin standardizing the API layer for it so that we can orchestrate as we need.
