@@ -1,6 +1,11 @@
 ---
-title: OpenAPI In Gov
-date: 2017-06-03 05:22:00 Z
+title: Examples Of The OpenAPI Specification Used For Government APIs
+date: 2017-06-07 09:00:00 Z
+tags:
+- Federal Government
+- API Evangelist
+- Definitions
+- OpenAPI
 ---
 
 I was answering some questions for [my partners over at DreamFactory](http://apis.how/bgdteovduo) when it comes to APIs in government, and one of the questions they asked was about some examples of the [OpenAPI specification](https://github.com/OAI/OpenAPI-Specification) being used in government. To help out, I started going through  my list of government API looking for any examples in the wild--here is what I found:
