@@ -1,5 +1,5 @@
 ---
-title: Conferences Focused On Machine Learning APIs
+title: A Conference Focused On Machine Learning APIs
 date: 2017-06-07 14:00:00 Z
 tags:
 - API Events
