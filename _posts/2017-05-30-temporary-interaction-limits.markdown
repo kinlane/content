@@ -3,7 +3,7 @@ title: Temporary Interaction Limits
 date: 2017-05-30 19:31:00 Z
 ---
 
-I spend a lot of time thinking about API rate limits. How they can hurt API providers, or as my friend Tyler Singletary says incentivize creativity. I think your view on rate limits will vary depending on which side of the limit you stand, as well as your own creative potential and limitations. I agree with Tyler that they can incentivize creativity, but it doesn't mean that all limitations imposed will ultimately be good.
+<p><a href="https://github.com/blog/2370-temporary-interaction-limits"><img src="https://s3.amazonaws.com/kinlane-productions/github/769c0c3c-34af-11e7-9b76-96396c81f051.png" align="right" width="40%" style="padding: 15px;" /></a></p>I spend a lot of time thinking about API rate limits. How they can hurt API providers, or as my friend Tyler Singletary says incentivize creativity. I think your view on rate limits will vary depending on which side of the limit you stand, as well as your own creative potential and limitations. I agree with Tyler that they can incentivize creativity, but it doesn't mean that all limitations imposed will ultimately be good.
 
 [I was recently contemplating Github's recent introduction of temporary interaction limits which means "maintainers can temporarily limit who can comment, create pull requests, and open issues among existing users, collaborators, and prior contributors."](https://github.com/blog/2370-temporary-interaction-limits) While this isn't directly about API rate limiting, it does overlap, and provide us with some thoughts we can apply to our world of API consumption, and how we sensibly moderate the access to the digital resources we are making available online.
 
