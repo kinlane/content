@@ -1,6 +1,11 @@
 ---
 title: The APIs.json For Trade.gov
-date: 2017-06-02 00:06:00 Z
+date: 2017-06-09 09:00:00 Z
+tags:
+- Discovery
+- API Evangelist
+- Federal Government
+- Commerce
 ---
 
 <p><img src="https://s3.amazonaws.com/kinlane-productions/trade-gov/deverlop_trade_logo_tall.png" align="right" width="35%" style="padding: 15px;" /></p>There are a growing number of API providers who have published [an APIs.jso](http://apisjson.org)n for their API operations, providing a machine-readable index of not just their API, but for their API entire operations. My favorite example to use in my talks and conversations when I'm showcasing the API discovery format is the one for [the International Trade Administration at developer.trade.gov](http://developer.trade.gov/).
