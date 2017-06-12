@@ -1,6 +1,10 @@
 ---
 title: Recent API Paths
-date: 2017-06-12 10:41:00 Z
+date: 2017-06-12 13:00:00 Z
+tags:
+- Design
+- API Evangelist
+image: https://s3.amazonaws.com/kinlane-productions/box/box-recent-item-object.png
 ---
 
 <p><a href="https://developer.box.com/v2.0/reference#recent-item-object"><img src="https://s3.amazonaws.com/kinlane-productions/box/box-recent-item-object.png" align="right" width="40%" style="padding: 15px;" /></a></p>I was learning about [a new API path for the document platform Box that was designed specifically for showing recently updated objects](https://developer.box.com/v2.0/reference#recent-item-object). I think that the concept of having API paths dedicated to showing recently changed elements makes sense, helping eliminate the need for API consumers to learn about which parameters are needed to achieve their goal, helping expose this aspect of the platform through API design.
