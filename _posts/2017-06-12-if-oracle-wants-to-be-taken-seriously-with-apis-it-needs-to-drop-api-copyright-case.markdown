@@ -1,6 +1,6 @@
 ---
-title: If Oracle Wants To Be Taken Seriously With APIs It Needs To Drop API Copyright
-  Case
+title: If Oracle Wants To Be Taken Seriously With API Campaign It Needs To Drop API
+  Copyright Case
 date: 2017-06-12 09:00:00 Z
 tags:
 - Copyright
