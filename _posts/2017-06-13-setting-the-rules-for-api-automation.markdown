@@ -1,6 +1,6 @@
 ---
 title: Setting The Rules For API Automation
-date: 2017-06-13 14:00:00 Z
+date: 2017-06-13 13:00:00 Z
 tags:
 - Bots
 - API Evangelist
