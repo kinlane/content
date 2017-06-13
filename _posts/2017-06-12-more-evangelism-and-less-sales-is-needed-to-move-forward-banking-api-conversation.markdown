@@ -1,5 +1,5 @@
 ---
-title: More Evangelism And Less Sales Is Needed To Move Forward Banking API Conversation
+title: More Evangelism Will Be Needed To Move Banking API Conversation Forward
 date: 2017-06-12 16:44:00 Z
 ---
 
