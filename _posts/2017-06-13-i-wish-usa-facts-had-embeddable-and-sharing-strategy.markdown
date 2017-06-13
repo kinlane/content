@@ -1,5 +1,5 @@
 ---
-title: I Wish USA Facts Had A Sophisticated API Embeddable And Sharing Strategy
+title: I Wish USA Facts Had A More Sophisticated API Embeddable And Sharing Strategy
 date: 2017-06-13 11:00:00 Z
 tags:
 - Embeddable
