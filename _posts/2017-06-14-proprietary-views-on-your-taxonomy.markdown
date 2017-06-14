@@ -1,5 +1,5 @@
 ---
-title: Proprietary Views On Your Taxonomy
+title: Proprietary Views Of Your Taxonomy
 date: 2017-06-14 09:00:00 Z
 tags:
 - Definitions
