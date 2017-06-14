@@ -1,6 +1,6 @@
 ---
 title: The Successes And (Mostly) Failures Of A Developer Evangelist
-date: 2017-06-12 11:00:00 Z
+date: 2017-06-14 10:47:00 Z
 tags:
 - Evangelism
 - API Evangelist
