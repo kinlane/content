@@ -1,5 +1,5 @@
 ---
-title: GSA API Standards With Working Prototype API And Portal
+title: The GSA API Standards With A Working Prototype API And Portal
 date: 2017-06-14 16:00:00 Z
 tags:
 - Design
