@@ -7,6 +7,7 @@ tags:
 - Documents
 - Storage
 - Wholesale
+image: https://s3.amazonaws.com/kinlane-productions/amazon/lambda_find_box_blue_1.png
 ---
 
 <p><img src="https://s3.amazonaws.com/kinlane-productions/amazon/lambda_find_box_blue_1.png" width="40%" align="right" style="padding: 15px" /></p>[Serverless](http://serverless.apievangelist.com/) is spreading across the API sector, and is something that leading API providers are beginning to embrace as part of their operations. I saw an interesting example of this out of AWS and Box lately, with [the announcement of Lambda blueprints and code for integrating with the Box API via the AWS platform](https://aws.amazon.com/blogs/aws/box-platform-on-aws-marketplace-lambda-blueprints-sample-code/).
