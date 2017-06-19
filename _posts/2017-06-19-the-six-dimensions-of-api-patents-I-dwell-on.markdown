@@ -1,5 +1,5 @@
 ---
-title: Six Dimensions Of API Patents
+title: The Six Dimensions Of API Patents I Dwell On
 date: 2017-06-19 17:00:00 Z
 tags:
 - Patents
