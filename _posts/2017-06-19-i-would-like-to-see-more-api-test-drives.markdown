@@ -8,6 +8,7 @@ tags:
 - SDK
 - API Evangelist
 - Cloud
+image: https://s3.amazonaws.com/kinlane-productions/c627d90c-1615-4750-b45c-9658b45596bc.png
 ---
 
 <p><a href="https://azure.microsoft.com/en-us/blog/azure-marketplace-test-drive/?v=17.23h"><img src="https://s3.amazonaws.com/kinlane-productions/c627d90c-1615-4750-b45c-9658b45596bc.png" align="right" width="40%" style="padding: 15px;" /></a></p>[The Azure Marketplace has the ability to test drive anything that is deployed in the Azure Marketplace](https://azure.microsoft.com/en-us/blog/azure-marketplace-test-drive/?v=17.23h). As someone who has to sign up for an endless number of new accounts to be able to play with APIs and API services, I'm a big fan of the concept of a test drive--not just for web applications, or backend infrastructure, but specifically for individual APIs and microservices.
