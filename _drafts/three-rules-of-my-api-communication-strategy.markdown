@@ -1,5 +1,5 @@
 ---
-title: Three Rules Of Your API Communication Strategy
+title: Three Rules Of My API Communication Strategy
 date: 2017-06-19 17:47:00 Z
 ---
 
@@ -7,9 +7,9 @@ Communicating effectively around API operations is the number one illness I see 
 
 An effective API communication strategy is more art than it is science, and I'd like to share three of my rules when it comes to telling stories on the API Evangelist platform.
 
-Honesty - Be honest with yourself, you're readers, and those you are writing about. If you can't find a way to be honest in your writing go find a new job--it won't be sustainable.
-Consistent - Communicate every day. Ok, maybe every other day. Regardless of frequency, make sure you are communicating on a consistent basis, setting the tone for what your audience can expect.
-Compelling - Make it compelling. No, not every single post will be compelling, but make it your primary goal to tell a compelling story that you would read yourself, if it was on someone else's blog.
+* **Honesty** - Be honest with yourself, you're readers, and those you are writing about. If you can't find a way to be honest in your writing go find a new job--it won't be sustainable.
+* **Consistent** - Communicate every day. Ok, maybe every other day. Regardless of frequency, make sure you are communicating on a consistent basis, setting the tone for what your audience can expect.
+* **Compelling** - Make it compelling. No, not every single post will be compelling, but make it your primary goal to tell a compelling story that you would read yourself, if it was on someone else's blog.
 
 That is it. Don't sweat all the technical details. Just write on the blog, spend the time on Twitter, participate in threads on Github, and regularly dive into the bowels of the Slack. Don't spend all your time worrying about your communication strategy, just make sure you give it a sensible amount of time, and follow these three rules--the rest will come.
 
