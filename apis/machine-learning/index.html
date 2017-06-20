@@ -5,7 +5,6 @@ layout: none
 {% assign this_tag = 'Machine Learning' %}{% assign count = 1 %}{% for post in site.posts %}
   {% assign match = 0 %}
   {% for tag in post.tags %}
-    {{ tag }} == {{ this_tag }}<br />
     {% if tag == this_tag  %}
       {% assign match = 1 %}
     {% endif %}
