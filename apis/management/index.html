@@ -2,20 +2,19 @@
 layout: none
 ---
 [{
-{% for post in site.posts %}
-  {% assign post_title = post.title | downcase %}
-  {% assign post_abstract = post.abstract | downcase %}
-  {% assign post_content = post.content | downcase %}
-  {% if post.title contains 'api management' or post.title contains 'API management' or post.title contains 'API Management' or post.abstract contains 'api management' or post.abstract contains 'API management' or post.abstract contains 'API Management' or post.content contains 'api management' or post.content contains 'API management' or post.content contains 'API Management' %}
+{% assign this_tag = 'Management' %}{% assign count = 1 %}{% for post in site.posts %}
+  {% assign match = 0 %}
+  {% for tag in post.tags %}
+    {% if tag == this_tag  %}
+      {% assign match = 1 %}
+    {% endif %}
+  {% endfor %}
+  {% if match == 1 and count < 25  %}
     {% unless post_title == '' %}
       "title": "{{ post.title }}",
-      "publication_date": "{{ post.date |  date: "%Y/%d/%m" }}",
-      "number": "{{ post.number }}",
-      "url": "{{ post.url }}",
-      "abstract": "{{ post.abstract }}",
-      "owner": "{{ post.owner }}",
-      "owner_city": "{{ post.owner_city }}",
-      "owner_country": "{{ post.owner_country }}"{% if forloop.last != true %},{% endif %}
+      "post_date": "{{ post.date |  date: "%Y/%d/%m" }}",
+      "body": "{{ post.content }}"{% if forloop.last != true %},{% endif %}
+      {% assign count = count | plus: 1 %}
     {% endunless %}
   {% endif %}
 {% endfor %}
