@@ -13,7 +13,7 @@ layout: none
     {% unless post_title == '' %}
       "title": "{{ post.title }}",
       "post_date": "{{ post.date |  date: "%Y/%d/%m" }}",
-      "body": "{{ post.content }}"{% if forloop.last != true %},{% endif %}
+      "body": "{{ post.content | escape }}"{% if forloop.last != true %},{% endif %}
       {% assign count = count | plus: 1 %}
     {% endunless %}
   {% endif %}
