@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Twitter Cuts Off Tumblr&#039;s Ability to Find Friends'
+---
+<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/tumblr/tumblr_logo.png" alt="" width="250" align="right" /></p>
+<p>It appears that nobody is immune from Twitter&rsquo;s recent spree, ending partnerships and taking total control over the data on its platform.  According to <a title="The NextWeb Tumblr just had their Twitter friend-finding privileges revoked" href="http://thenextweb.com/twitter/2012/08/22/tumblr-becomes-next-property-instagram-twitter-friend-finding-privileges-revoked/">The NextWeb Tumblr just had their Twitter friend-finding privileges revoked</a>.</p>
+<p>Just like with Instagram, the change is limited users&rsquo; ability to follow their Twitter friends on the Tumblr platform, but sharing content from Twitter to Tumblr is still open--continuing the <a href="/2012/07/30/why-isnt-the-ftc-looking-into-twitters-increasingly-anti-competitive-practices/">trend of making Twitter data a one way street</a>, outwards.</p>
+<p><a href="http://thenextweb.com/twitter/2012/08/22/tumblr-becomes-next-property-instagram-twitter-friend-finding-privileges-revoked/">The NextWeb has an official statement from Tumblr</a> on their site:</p>
+<blockquote><em>"Tumblr has confirmed the removal, and says that it is &lsquo;disappointed&rsquo; by Twitter&rsquo;s decision to make them remove the feature despite being one of its partners for the new Twitter Cards features."</em></blockquote>
+<p>Twitter is obviously not worried about making friends, with Tumblr being the third high profile partnership to be terminated including Instagram and LinkedIn.   While Twitter might feel that their position with users is solid, I can&rsquo;t imagine their reputation can take much more of this negative press without seeing some sort of impact.</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Mapping'
+---
+<h2>Mapping</h2>
+<p>One early API pioneer saw the need for provider web developers with a simple JavaScript map that could assist uses in navigating online, localized content or even navigate in the real world.</p>
+<p>Web developers quickly saw the potential of embeddable maps, and found ways to hack these mapping sources to innovate and build the web properties users desired, focused on solving the local problems we all face daily.</p>
+<p>This early use of APIs in providing mapping tools and services for developers laid the groundwork for much of the early mobile developer talent that would drive the coming mobile API period.</p>

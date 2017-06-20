@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'Has the Great Twitter Migration to App.net Begun?'
+---
+<p><a href="http://tapbots.com/software/netbot/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/netbot/Netbot.png" alt="" width="200" align="right" /></a></p>
+<p><a href="https://alpha.app.net/kinlane">I only have 31 followers</a> on <a title="App.net" href="http://app.net">App.net</a>, but most of that is from the last couple days.  I&rsquo;ve heard from a couple other users, that they are seeing an uptick in the number of followers, as well as seeing people they know signing up for App.net in the last couple days too.</p>
+<p>It&rsquo;s starting to feel like the days when we all started using Facebook instead of MySpace.  I think App.net is building momentum on its own, but I also can&rsquo;t help but think it got a boost from the recent launch of <a href="http://tapbots.com/software/netbot/">Netbot</a>, an App.net client for iPad and iPhone from the creators of popular mobile Twitter client, <a href="http://tapbots.com/software/tweetbot/">Tweetbot</a>.</p>
+<p>The availability of a mature client for App.net could be just what the new platform needs.  If mainstream, power Twitter users can switch to App.net and use a a client that they are familiar with, the chances of adoption are much greater.</p>
+<p>In the age of the smartphone, a quality mobile client and SDK can make or break an API platform.  I think Twitter was right, regarding the importance of their mobile client to their platform, when they started asserting control of Twitter client development in March 2012. But Twitter has severely underestimated the value that the mobile clients they pushed out might bring to rival platforms.</p>

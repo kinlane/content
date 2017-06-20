@@ -1,0 +1,6 @@
+---
+layout: post
+title: 'Implementing A Top Down API Strategy'
+---
+<p><span>After reviewing the approach of the six universities who are deploying centralized API strategies, there is one approach that stands out as what I&rsquo;d call a top down approach, which you can see playing out in the BYU API program--where you have an effort, being led by the CIO office, with buy-in from executive level leaders.&nbsp;</span><br /> <br /> <span>This top down approach at BYU is definitely an ideal situation for deploying APIs at a university because you have direct access to all IT resources, and can go big, like they have at BYU, making almost every part of campus operations accessible through the over 250+ APIs they have available. </span></p>
+<p><span>Even with this level of access, there is still a lot of work to do, bringing together the BYU developer area, delivering the supporting resources that API consumer will need, and maintaining top level buy in, but overall it is a pretty impressive start, compared to other institutions&mdash;providing a pretty good example of why a top down API strategy for universities can be the way to go.</span></p>

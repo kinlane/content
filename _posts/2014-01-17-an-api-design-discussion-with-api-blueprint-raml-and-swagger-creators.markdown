@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'An API Design Discussion With API Blueprint, RAML And Swagger Creators'
+---
+<p><a href="http://design.apievangelist.com/" target="_blank"><img class="c1" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-design.png" alt="" width="150" align="right" /></a></p>
+<p>REST head Glenn Block (<a href="https://twitter.com/gblock">@gblock</a>) over at <a href="http://www.splunk.com/">Splunk</a> asked a simple question on Twitter Wednesday night, Who is using Swagger? I responded, kicking off a conversation that a day later included Tony Tam (<a href="https://twitter.com/fehguy">@fehguy</a>) of <a href="http://developers.helloreverb.com/swagger/">Swagger</a>, Uri Sarid (<a href="https://twitter.com/usarid">@usarid</a>) of <a href="http://raml.org/">RAML</a>, and Jakub Nesetril (<a href="https://twitter.com/jakubnesetril">@jakubnesetril</a>) of <a href="http://apiblueprint.org/">API Blueprint</a>.</p>
+<p>After the fact, the conversation may be a little unwieldy to follow, but it contains enough insight and nuggets of information, I feel its worth publishing and hopefully continuing in other formats.</p>
+<p>The conversation began on Twitter:</p>

@@ -1,0 +1,6 @@
+---
+layout: post
+title: 'Code'
+---
+<h1>Code</h1>
+<p>The goal of any API provider to help consumers go from signup to successful integration as fast as possible. Providing code in as many possible languages, frameworks and formats is the best way any API provider can help their community.</p>

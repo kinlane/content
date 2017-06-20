@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Mobile'
+---
+<h2>A Mobile World</h2>
+<p>With the introduction of iPhone and Android smart phones, APIs had evolved from powering e-commerce ,social and the cloud to delivering valuable resources to the mobile phones in our pockets, that are quickly becoming commonplace around the globe.</p>
+<p>APIs make valuable resources modular, portable and distributed, making them a perfect channel for developing mobile and table applications of all shapes and sizes.&nbsp;</p>
+<p>A small group of API driven technology platforms have helped defined the space and won over the hearts and minds of both developers and the end users of the applications they develop.</p>

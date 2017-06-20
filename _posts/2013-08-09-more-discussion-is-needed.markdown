@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'More Discussion is Needed'
+---
+<h1>More Discussion is Needed</h1>
+<p>Much like we have been discussing the best approaches to designing, deploying and managing APIs over the last three years, we need to have many discussions at conferences, hackathons on on the Internet about what tools and services are needed for building web and mobile applcations on top of APIs.</p>
+<p>The building blocks for API design, deployment and management are becoming well established, but what to developers need. We know that web APIs are lossely coupled and often not as stable as some of earlier web services, but this is ok. Web APIs are meant to be scrappy, agile and a quicker way of providing access to valuable data, content and resources.</p>
+<p>This next generation of API integration providers like Runscope and THeRightAPI are working are to define the landscape of existing tools, services and essential building blocks for developers. These providers are also trying to understand what developers are facing when integrating with the APIs they depend on, and are quickly become a stable layer in between web and mobile developers and API providers.</p>
+<p>API integration providers also provide a much needed layer of stability and monitoring, and a valuable bi-product and exhaust from this layer is analytics. These analytics provide not just developers with insights into how applications are using APIs, how APIs are behaving, but also provide the entire industry with valuable data and insight into the underbelly of the world of APIs.</p>
+<p>We are just getting started with understanding what is needed when building solid applications on top of APIs, and I'm just getting started monitoring this space deeper. We need to make sure that we are having lots of open discussions from the developer and API provider side, and API integration companies need to make sure and facilitate these conversations in open and transparent ways providing lots of content, data and intelligence on what is going on in real-time--and we will all be better off because of it.</p>
+<p><br /><br /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-conversations.jpg" alt="" width="450" /></p>

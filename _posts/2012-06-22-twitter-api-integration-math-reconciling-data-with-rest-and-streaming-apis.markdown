@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Twitter API Integration Math: Reconciling Data with REST and Streaming APIs'
+---
+<p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>
+<p>I&rsquo;m continuing my blog series on using the Twitter API integration for my new API ranking and monitoring platform.  To begin, <a href="http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/">I did the math necessary to understand how I needed to use the Twitter API</a> for my project.  Next, <a href="http://apivoice.com/2012/06/06/twitter-api-integration-math-rest-api/">using the Twitter REST API, I tried to accomplish what I needed</a>, quickly realizing the API rate limits would quickly prevent me from getting all the Tweets I needed.  After better understanding the REST API <a href="http://apivoice.com/2012/06/21/twitter-api-integration-math-streaming-api/">I dove into using the Twitter Streaming API</a>, which required some technical investment in both education, and setting up right server to handle the streaming connection and storing of Tweets.</p>
+<p>So where do I stand?</p>
+<ol class="mainlist">
+<li><strong>Twitter REST API - </strong>The REST API provides me the historical access to Tweets I need, but I quickly run into rate limits that prevent me from getting what I need</li>
+<li><strong>Twitter Streaming API - </strong>The Twitter Streaming API provides me real-time access to the Tweets I need, but only for the real-time.  If I miss any Tweets due to incomplete filters or technical difficulties I&rsquo;ve missed out</li>
+</ol>
+<p>The REST API gives me what I need, but due to the rate limiting isn&rsquo;t a complete solution.  The Streaming API will give me more access but I will be missing Tweets for various reasons.  Which Twitter recognizes, and recommends using the REST API to fill in the gaps in data received from the Streaming API.  To make sure my Tweet data store is complete for my API ranking and monitoring I have to attack in three ways:</p>
+<ol class="mainlist">
+<li><strong>New Accounts and Keywords -</strong> Seed new Twitter accounts and keywords I add to my monitoring system using Twitter REST API.  Pull as many Tweets as it will let me until I hit search or user account limits</li>
+<li><strong>Real-time Monitoring -</strong> Use the Twitter Streaming API to pull all the Tweets for individual user accounts, @mentions and for keyword searches.  I will update my filter list every week to make sure I&rsquo;m getting what I need</li>
+<li><strong>Reconciliation - </strong>I am building a system for reconciling data between the Twitter REST and Streaming APIs.  To find any Tweets that were missed for any number of reasons</li>
+</ol>
+<p>That is the big picture of how I will have to integrate with the Twitter APIs to just get the data I need for my API ranking and monitoring system.  My two previous posts were about using the REST API and about using the Streaming API, this post is about reconciling between the two.</p>
+<p>There are two main reasons I will have to reconcile:</p>
+<ol class="mainlist">
+<li><strong>Twitter Stream Breaks -</strong> My connection with the Twitter Streaming API breaks.  I have a logging system that acknowledges these periods, and using the Tweet IDs I will then fill in the gaps using the REST API</li>
+<li><strong>New Twitter Accounts and Keywords -</strong> When I add new Twitter accounts and keywords to my platform I will have rebuild this data using the REST API.  Sometimes I can imagine these aren&rsquo;t entirely new accounts or keywords, but variations and additions to existing areas I&rsquo;m tracking on</li>
+</ol>
+<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/data-reconciliation.jpg" alt="" width="200" align="right" /></p>
+<p>But there really is a third area I will have to reconcile on, and that is completeness of data.  I&rsquo;m not just doing sentiment analysis here, I actually need every Tweet or I might miss a feature release from an API company, and I use the volume of Tweets as a metric of success for an API company in my algorithm.  Twitter has a concept of limiting either by percentage or by count to minimize the load on the system.  I need to make sure I&rsquo;m getting everything, so I will be double checking what is pulled from Streaming via the REST API.  How else am I supposed to know if I&rsquo;ve gone over the 1% available to me via the Twitter Streaming API?</p>
+<p>Overall this is a lot of work.  To do the math, to understand my approach, figure out the REST integration, the Streaming API and then the reconciliation between the two.  Its a lot work, but its doable--as long as I&rsquo;m really getting all the data...which is something I don&rsquo;t ever fully know and honestly I don&rsquo;t feel like Twitter is investing in me ever knowing.</p>
+<p>With the process I&rsquo;ve laid out I should be able to get what I need, except for the historical piece, and honestly I won&rsquo;t be able to do with one account and one server, which is something I&rsquo;ll write about separately.  To complete this picture I will also need to use Twitter resellers Gnip and Datasift, which is what I&rsquo;ll write about next in this series.</p>

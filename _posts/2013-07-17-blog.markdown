@@ -1,0 +1,6 @@
+---
+layout: post
+title: 'Blog'
+---
+<h1>Blog</h1>
+<p>A well written, active blog with an RSS feed can become the face of an API. Providing much needed stories and resources about API integration, but also providing rich SEO content that will act as a discovery engine on the open web for an API. In contrast an inactive blog can quickly begin to wrok against you, so make sure if you consider blogging as part of your API management strategy it plays and active role.</p>

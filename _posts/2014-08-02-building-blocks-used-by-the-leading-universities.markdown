@@ -1,0 +1,6 @@
+---
+layout: post
+title: 'Building Blocks Used By The Leading Universities'
+---
+<p><span>I track on what I consider to be the common building blocks for API design, deployment, management, evangelism, and integration, that can be used in all business, organizational, and government sectors. When it comes to higher education, I&rsquo;m going to be tracking on a different set of building blocks, showcasing not just the approach, tools, and services used to deploy APIs, I want to focus on which components of campus operations are having APIs applied to them.</span><br /> <br /> <span>While the 250+ APIs at Brigham Young University gave me a huge head start on building this list, I looked across all of the university API leaders, as well as the smaller implementations out there. After aggregating into a single list, I smoothed out some of the rough edges, merged a few of the areas, and organized into this list of common building blocks across university API implementations, as of July 2014.</span></p>
+<p style="text-align: center;"><em>(I will add descriptions for each of these in the next edition)</em></p>

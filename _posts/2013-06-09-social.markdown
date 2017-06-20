@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'Social'
+---
+<h2>Social</h2>
+<p>As API driven commerce platforms were still getting their footing, and understanding the best way to use APIs, a new breed of technology platforms emerged in the area content and messaging on the web in a way that was very user centric and socially enabling.</p>
+<p>Publishing user generated content, and the sharing of web links, photos and other media via APIs emerged with this birth of new social platforms between 2003 and 2006.&nbsp; This was an entirely new era for APIs, one that wasn't about money, it was about connections.</p>
+<p>These new API driven, social platforms would take technology to new global heights, and ensure that applications from here forward, would all always contain essential social features, that were defined via their platform APIs.&nbsp;</p>
+<p>Social, was an essential ingredient the API industry was missing.</p>

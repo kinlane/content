@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Adding The Mobile App Gallery API'
+---
+<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-iphone.png" alt="" width="100" align="right" /></p>
+<p>I wanted to create an APIs.json containing all three of the APis available at www.usa.gov. Before I could create the APIs.json, I needed a Swagger API definition for each of the APIs--next up is the <a href="http://www.usa.gov.apievangelist.com/mobile-app-gallery-api.html">Mobile App Gallery API</a>.</p>
+<p>I went to the home page for the Mobile App Gallery API, and unlike the Federal Agency Directory&nbsp;API, there was not already a Swagger API definition. I got to work handcrafting my own--the interface is pretty simple, it didn't take much work.</p>
+<p><a href="http://www.usa.gov.apievangelist.com/social-media-registry-api.htmlhttp://www.usa.gov.apievangelist.com/mobile-app-gallery-api.html">I added a page for the&nbsp;Mobile App Gallery API</a>, in the Github repository, and pointed the interactive API documentation to the new Swagger API definition, and fired up the new docs. But, unlike with the Federal Agency Directory&nbsp;API, and Social Media Registry API,&nbsp;CORS was not enabled, which allows me to pull the JSON, across domain, and generate interactive documentation.&nbsp;</p>
+<p>The Federal Agency Directory&nbsp;API uses the address&nbsp;registry.usa.gov/accounts to make calls, where the &nbsp;Social Media Registry API uses&nbsp;www.usa.gov/api/USAGovAPI/contacts.json/contacts, both have CORS enabled. The Mobile App Gallery API uses apps.usa.gov/apps-gallery/api/registrations.json, which does not have CORS enabled, so I will have to create a proxy to bypass.&nbsp;</p>
+<p>Regardless, working with the three APIs, provided a great excercise in generating machine readable API definitions, and seeing some of the problems we will encounter with each API.</p>

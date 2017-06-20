@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Creating A Swagger API Definition For Federal Executive Agency Domain API'
+---
+<p><a href="http://explore.data.gov.apievangelist.com/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-government.jpg" alt="" width="200" align="right" /></a></p>
+<p>I want the <a href="https://explore.data.gov/developers/docs/federal-executive-agency-internet-domains">Federal Executive Agency Domain API</a>&nbsp;from the GSA to be included in the <a title="APIs.io Search Engine" href="http://apis.io">APIs.io search engine</a>. To do this, I need to create an <a href="http://apisjson.org">APIs.json</a> file, and host it in the root of the explore.data.gov domain--which I do not have access to. ;-(</p>
+<p>While I cannot put an APIs.json in the root of the expore.data.gov domain, I can create one, and host it myself. So I created this Github repository, to act as a holder for the explore.data.gov domain. I will be putting everything that "should be available" in the&nbsp;Federal Executive Agency Domain API from the GSA.</p>
+<p>An APIs.json is meant to act as an index of APIs available at the explore.data.gov domain, the&nbsp;Federal Executive Agency Domain API is just the first one I'm tackling. For the explore.data.gov/apis.json to be effective, it needs a machine readable API definition for the&nbsp;Federal Executive Agency Domain API to point to. While the API is simple and well designed, it currently doesn't have a machine readable API definition--I am going to fix that.</p>
+<p>I have created a Swagger API definition for the&nbsp;Federal Executive Agency Domain API, describing the interface using JSON. Now I have a machine readable definition of this API. Now I can list the API, in my APIs.json for the explore.data.gov domain--which I will talk abut in my next post.</p>
+<script src="https://gist.github.com/kinlane/45bfa00e56b37e926a7c.js"></script>

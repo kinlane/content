@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'api-keys'
+---
+<p><a href="http://api-keys.apievangelist.com"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-key.png" alt="" width="250" align="right" /></a></p>
+<p><a href="http://api-keys.apievangelist.com/">api-keys</a> is my centralized, machine readable JSON format for storing my API keys in. Each micro service that I deploy, has one Github repo that is its central definition, and in the private, master repo, I am storing my api-keys.json file.</p>
+<p>I rely upon the Github API, and oAuth to read, and write to this config file, allowing each micro service I deploy to access, and cache the API configuration locally, with supporting API endpoints to update when needed.</p>
+<p>api-keys will always be located at a private location, it is up to each micro service to have the path available in APIs.son, or just keep as a known, common location within the master branch of the repo&mdash;both configurations will use Github security to secure.</p>
+<p>Since my micro services all live within a single Github organization, I am able to have a central key management interface, to globally manage the API keys and tokens I use across my micro-services, and help keep my house in order.</p>
+<p><a href="http://api-keys.apievangelist.com/">api-keys</a> is different than <a href="http://api-config.apievangelist.com/">api-config</a>, because it will have a different management process, and evolve in alignment with multiple API authentication schemas my APIs support, while api-config.json will probably remain pretty static.</p>

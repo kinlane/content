@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'Overview'
+---
+<h1>Overview API Management</h1>
+<p>API management was not born out of any particular group or standard, it was defined by the early API pioneers like SalesForce, Amazon and Ebay, and iterated upon by other newcomers like Twilio, SendGrid and others. &nbsp;</p>
+<p>As a standard offering, the first startup to offer API management as a service was Mashery in 2006, who helped set a common approach to providing API portals and coined the term business of APIs.</p>
+<p>In 2014 there are over 20 API management service providers providing a wide range of services from access management and analytics to complete API gateway services to help you deploy and manage hundreds or thousands of APIs from internal resources.</p>
+<p>I've always lumped everything about providing APIs into a bucket called API management. I'm slowly pulling out the separate pieces like design, deployment, monetization and evanelism, leaving API management as the technology, business and politics of managing multiple APIs for your company, or as a business.</p>
+<p>There are two main paths that API providers take, either DIY approach where you have the resources and launch your own portal, and cobble together various tools and services to make it all work. The second path is talking to several of the API management providers and discovering which one will best help you with your goals.</p>
+<p>Whichever path is taken, the goal of this paper is to provide you with the building blocks and overall knowledge you will need to be successful. I have studied the tools and services offered by the API management service providers, but more importantly I have looked at all the public APIs available today, and tried to reflect the best practices they've established through operations.</p>
+<p>API management will include a portal area, where you host the operations of one or many API resources, as well as multiple public platforms like Stack Exchange and Github. &nbsp;API management involves not just the management of the technical API interfaces, but the blog, forums, documentation, support desk and other critical building blocks of API operations.</p>
+<p>Any company or individual that is new to the game, I highly recomend spending 2 weeks studying the top API platforms and understanding how they run their own API management operations. Next I recommend you pick 2-3 of the API management service providers and give them a call, have conversations with them about your goals. &nbsp;</p>
+<p>API management is not something you read the book on, then execute flawlessly. API management is about ongoing, iterative research and development around your companies data and resources. Your API management strategy will define the next phase of your business development.</p>

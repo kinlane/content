@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'Adding APIMATIC SDKs To My Master Stack And Including In Each APIs.json'
+---
+<p><a href="https://kin-lane.github.io/api/"><img style="padding: 5px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/apis-json-apimatic.png" alt="" width="300" align="right" /></a></p>
+<p>Machine readable <a href="http://swagger.io">Swagger</a> definitions have always been default for all my APIs, and including it in my APIs.json index is a must. <a href="http://alpha.apievangelist.com/2015/04/07/including-postman-collections-in-my-apisjson-files/">A while back I also started including links to my Postman collections I had generated using my Swagger definitions</a>. You never know when someone would rather have a Postman collection to get going over Swagger, or Swagger UI.&nbsp;</p>
+<p>I'm going through <a href="https://kin-lane.github.io/master/index.html">my master API stack</a> and doing some final adjustments to each API, and while I'm working through each of them I'm also generating SDKs using <a href="http://apimatic.io">APIMATIC</a>. It is easy to generate a PHP, Python, Ruby, Java, CSharp, Angular, Node.js, IoS, and Android SDK from my Swagger definitions, then upload to each API repository.</p>
+<p>To make sure the SDKs I've generated are easily found by developers I've included a link to the code page in the APIs.json file for each API. I'm playing around with also adding a machine readable reference, along with the human consumable link to the code page. I'd like to see a link to code page, and machine readable index of all SDKs, default for all APIs.</p>
+<p>I only have SDKs published for my <a href="https://kin-lane.github.io/api/index.html">"API API"</a>, but will be working thorugh the other 24 APIs as I have time. I have some more work to do on this API, before I move on to the next API in my stack--the Audio API.</p>

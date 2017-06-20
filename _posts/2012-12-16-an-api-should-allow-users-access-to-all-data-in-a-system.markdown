@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'An API Should Allow Users Access To All Data In A System'
+---
+<p><a title="Flickr APII" href="http://www.flickr.com/services/api/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/flickr.jpg" alt="" width="200" align="right" /></a></p>
+<p>There was a great post by Doc Searls today called <a href="http://blogs.law.harvard.edu/vrm/2012/12/16/toward-a-matrix-of-apis/">Toward a Matrix of APIs</a>, where he recalls a talk by Cal Henderson of Flickr at the 2006 O&rsquo;Reilly Emerging Technology Conference, where Henderson explained the principles behind the <a title="Flickr API" href="http://www.flickr.com/services/api/">Flickr API</a>.</p>
+<p style="padding-left: 30px;"><em>One of those principles was user access to data.   The <span style="text-decoration: underline;">API should be one that allowed the user to haul all of her data out of the system</span>, even if it was to federate that data into a competing system. That&rsquo;s because <span style="text-decoration: underline;">Flickr believed that user data is the user&rsquo;s first, and not just the company&rsquo;s</span>.  Another principle was keeping the API stable, so as not to disrupt users and other services that depended on the API.</em></p>
+<p>Both of these principles are essential ingredients of an <a title="open API" href="/2012/05/30/public-api-vs-open-api/">open API</a>, and made <a href="http://blog.apievangelist.com/2011/02/09/history-of-apis-flickr-api/">Flickr such a pioneer in the web API movement</a>.  I agree with Dave Winer that <a title="the Flickr API is a national treasure" href="http://threads2.scripting.com/2012/december/aNationalTreasure">the Flickr API is a national treasure</a>.</p>

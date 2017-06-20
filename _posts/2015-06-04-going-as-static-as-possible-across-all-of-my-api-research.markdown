@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Going As Static As Possible Across All Of My API Research'
+---
+<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-html.png" alt="" width="225" align="right" /></p>
+<p>My network of public websites, runs 100% on Github, using Jekyll and Github Pages. Across most of my research, I've been publishing JSON files, that contain structured data to support each area. Elements like companies, people, tools, and common building blocks that I track, on are published to each Github repository to support the overal research project, providing an open content, open source, and open data approach to everything that I do.</p>
+<p>When I publish a JSON file for a particular research area, I usually provide a supporting HTML page to display the data, allowing readers to interact with it, as well to get at the raw data. Historically I've used <a href="https://mustache.github.io/">Mustache &nbsp;templates </a>to render these pages, but with the latest push to my research I'm reverting it to all be static HTML. I will still publish the JSON, and provide a link alongside each HTML page, but I wanted to make sure the research data was as SEO and UI friendly as possible.</p>
+<p>Each of the hand crafted HTML pages I make for my research were pure static HTML, and each blog post was static using Jekyll, but now all the other structured data will be purely HTML and CSS. My goal is to really simplify each of the published endpoints for my research network, making them easier to discover, use, consume, while still also being machine readable by default.</p>

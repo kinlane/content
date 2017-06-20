@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Apple updates HealthKit privacy rules to keep your health data out of the hands of advertisers'
+---
+<hr />Ahead of the September 9 event, Apple has updated its HealthKit privacy policy for developers to keep user data out of the hands of advertisers and data brokers. 
+The Financial Times reports that theÂ companyâs updated policy will stop third-party apps from using personal data collected while using the HealthKit platform for anything other than informing users of their health. 
+Announced at WWDC as part of the upcoming iOS 8 launch, HealthKit is a central repository that collects data from all third-party health apps on a device that enable the collection. The information is parsed by HealthKit and presented via the Health app in easy to understand graphs. 
+By changing its privacy rules, Apple is ensuring all that data stays out of the hands of advertisers.<br /><br />URL: http://feedproxy.google.com/~r/TheNextWeb/~3/a8ibMgIT9hA/<br />

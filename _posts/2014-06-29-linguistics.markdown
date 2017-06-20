@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Linguistics'
+---
+<h2>Linguistics</h2>
+<p>I'm adding linguistics to the API design stack, because I feel it is an important, but it is an area that doesn't get a lot of discussion. I've seen a number of linguistic APIs, but in this scenario I'm talking about applying linguistic learning to the world of API design. I caught a presentation by Rebecca Standig (<a href="https://twitter.com/understandig">@understandig</a>) at Gluecon in Colorado, where she talked about this concept, and argued that linguistics experts should learn API design--lighting a spark for me when it came to linguistics and APIs.</p>
+<p>How you name your API resources is critical to how API consumers will put them to use. One immediate example of this was in a presentation I saw from Netflix, where they talked about changing their API URI design patterns from being resource based like /category/movie to experience based, /home/tv/movie. This shows one possible way that API designers should consider how language is structured, when they design their own APIs.</p>
+<p>Personally I don't think it was an accident that this latest API design renaissance, was triggered by Wordnik, a word definition, and meaning provider, trying to help API consumers better understand their own API. I think this effort captures the true essence of API definition, and API design, and is why we are seeing this shift in how we design, and communicate around APIs.</p>

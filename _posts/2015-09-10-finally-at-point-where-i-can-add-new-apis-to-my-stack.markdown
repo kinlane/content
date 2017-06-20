@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'Finally At Point Where I Can Add New APIs To My Stack'
+---
+<p><a href="http://kin-lane.github.io/scraping/"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-harvester.jpg" alt="" width="40%" align="right" /></a></p>
+<p>I finally got my new master API stack to the point where I can start adding new APIs. I have had a moratorium on adding new APIs, until the 30 that were there had the new service composition applied, and had Postman Collections, and monitors setup for them. I have finally reach that point, and while there is still a lot of work to be done on what is there currently, I was able to add my first new API stack.</p>
+<p><a href="http://kin-lane.github.io/scraping/">It took me about 30 minutes to add my scraping API to my stack, and have up and running my first endpoint</a>. I am working on harvesting the <a href="http://www.st.nmfs.noaa.gov/commercial-fisheries/foreign-trade/applications/trade-by-country">commercial fisheries statistics data from NOAA Office of Science and Technology</a>. I need to organize this data for one of my <a href="http://adopta.agency/">Adopta.Agency</a> projects, and before I could get the actual data, I needed all the field combinations available in the search form that is provided.</p>
+<p>I created an scraping.api.kinlane.com/parse-remote-html-form/ endpoint which I can pass the form of any HTML page with a form, and it finds any form, loops through all available fields, and if it is a select field, the options. The API returns a neat JSON array of each form, its fields, and options.&nbsp;</p>
+<script src="https://gist.github.com/kinlane/c5c766694d83fd46725f.js"></script>
+<p>I will use this endpoint as a resource for pulling all possible combinations available when submitting a form. I wanted to separate this part, from the actual harvesting, and parsing, because they might be custom steps, and I want to try and use this across as many scraping targets as I possibly can.</p>
+<p>The best part is now I also have a scraping API, that I can add more endpoints to. In the past I would create separate scripts for doing this, that might be located all over my localhost, and my server(s). Now I have them organized via a single API stack, and indexed using Swagger and APIs.json.</p>

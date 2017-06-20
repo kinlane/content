@@ -1,0 +1,6 @@
+---
+layout: post
+title: 'Support'
+---
+<h1>Support</h1>
+<p>Providing direct and indirect support for an API community will support new and active developers, while also stimulating word of mouth marketing around an API ecosystem. Support should be kept public as often as you can, but provide ticketing, email and other private support channels as well.</p>

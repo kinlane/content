@@ -1,0 +1,6 @@
+---
+layout: post
+title: 'Forums'
+---
+<h1>Forums</h1>
+<p>User groups and forums<span>&nbsp;have become an essential building block in API communities for self-service support. A well moderated, active forum can evolve an APIs development area into an actual community. All forum communities will require the API owner to engage developers, keeping conversations active and questions answered, but with the right developers your forum can become self regulating--with opportunities for community participation.</span></p>

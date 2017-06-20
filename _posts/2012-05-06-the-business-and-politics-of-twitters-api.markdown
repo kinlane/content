@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'The Business and Politics of Twitter&#039;s API'
+---
+<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-Deep-Research-Twitter.png" alt="" width="350" align="right" /></p>
+<p>For the last two years, while studying the Business of APIs for <a title="API Evangelist" href="http://apievangelist.com">API Evangelist</a>, one API comes up the most in both online and offline discussions--<a title="Twitter" href="http://twitter.com"><strong>Twitter</strong></a>.</p>
+<p>In my opinion Twitter is the single most important API out there.   Twitter is the nervous system for news and information in the modern world.  Many may argue this, saying there are other sources, equally or more important--but I think when it comes to real-time flow of news and information, Twitter is king.</p>
+<p>At Twitter&rsquo;s heart lies an API, which drove its growth over the last six year, and feeds its current network of consumers via web and mobile interfaces.  The story Twitter&rsquo;s growth, and the evolution of their API ecosystem holds a lot of lessons, both good and bad, about how to build a business around an API.</p>
+<p>The Twitter API developer ecosystem has spawned thousands of applications from almost a million developers, providing a platform for global innovation to occur from basic SMS based messaging to advanced smart phone apps.</p>
+<p>When I was finishing the first draft of <a title="Business of APIs" href="http://apievangelist.com/business_of_apis.php">Business of APIs</a>, and considering my next project, I considered researching more about the <a title="Twitter API" href="https://dev.twitter.com/">Twitter API</a> ecosystem.  A year later I&rsquo;m finally making time, and I will be putting more resources into understanding the business and politics of the Twitter API ecosystem.</p>
+<p>I&rsquo;m hoping to learn a lot along the way, and extract some insight from the growth and operations one of the largest and most important API developer ecosystems.&nbsp; In my style I will work to share my research in real-time here on API Voice.</p>

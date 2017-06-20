@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Disruption Is Rarely About Building A Better Product, Improving An Industry, Or Helping Consumers'
+---
+<p><img style="padding: 10px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-disruption.png" alt="" width="40%" align="right" /></p>
+<p>I often fall for the Kool-Aid flavor du jour,&nbsp;whatever the flavor is. I'll be sipping it regularly, thinking I'm immune, until one day I'm like, "that is some damn good cool raspberry flavor!". &nbsp;However, from time to time I am reminded that not all is what it seem&nbsp;when it comes to Silicon Valley disruption.</p>
+<p>When I read the regular flow of marketing coming out of startups, it is easy to fall prey to the belief that they are building a better mousetrap redefining how business is being done, and redefining an industry. We all love a great American dream story! When in reality, 95% of the time this is the marketing kool-aid of the day, and when startups wield the term "disruption" or "revolution", it does not mean what they say in their marketing.</p>
+<p>Despite popular claims, startups are less interested in building a better product, running a better business, helping consumers, and redefining the way things occur in an industry, then they are attracting the interest of a buyer. Often times this is the 1000 lb gorilla in the space, and what better mating dance than the disruption and revolution chest thump.&nbsp;</p>
+<p>The disruption isn't a threat, it is a mating call. If you don't buy me, we will take your customers, and make you look old and outdated. We are young, new and shiny and people like us better. If you buy&nbsp;us, then people will be forced to love you, and all will be OK.</p>
+<p>It helps to step away from the regular flow of storytelling in the space, allowing you to see what much of the information is really about, and who the coded marketing speak is really for--not us (well unless you are looking to buy? Are you?).</p>

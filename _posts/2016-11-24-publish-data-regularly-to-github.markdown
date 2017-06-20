@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Publish Data Regularly To Github'
+---
+<p>I have automated jobs set up to regularly publish data for all domains being targeted across the news and propaganda sides of the discussion in the JSON format to Github. I am also updating the URLs that are indexed for each domain, including the latest Facebook shares (if they are pulled).&nbsp;</p>
+<p><a href="https://github.com/domain-literacy/website">All data is published to Github</a> using the Github API. I am also publishing an HTML listing of news and propaganda, and details pages for each domain, allowing the URLs and Facebook share counts to be explored without having to wade through the JSON. It is all available as a single Github repository, allowing it to be downloaded, forked, or directly integrated using the raw JSON files.</p>
+<p>I'm trying to make sure all data is updated for each domain at least once a day. Once again I'm limited by the Github API, as well as pulling URLs, and Facebook Graph data. It is important to me that all data is available openly on Github as machine-readable data&nbsp;so that anyone can integrate into their own work.</p>
+<p><a href="https://github.com/domain-literacy/website">Having everything on Github</a> also opens up up the opportunities&nbsp;for accepting pull requests, adding, and updating data beyond what I can do on my own. I am also leveraging <a href="https://github.com/domain-literacy/website/issues">Github issues for the repository to manage the roadmap, and feedback around the project</a>. If the number of domains grows beyond a specific size, I will begin to spread across multiple&nbsp;Github repositories broken down alphabetically.</p>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'Pulling News and Propaganda'
+---
+<p><a href="https://hapgood.us/2016/11/13/fake-news-does-better-on-facebook-than-real-news/">Similar to what Mike Caulfield looked at in his look at the news vs. fake news</a>, I wanted to try and define what is propaganda by comparing it to what regular news outlets were publishing. I put together <a href="http://domain-literacy.com/propaganda/">a list of over 50 "fake news" sites</a>, and <a href="http://domain-literacy.com/news/">around 20 of the leading news sites</a>. In my work I am not looking to algorithmically define fake news vs real news, I am just trying to establish a fingerprint of the domains behind each of these "news" outlets.</p>
+<p>I setup a server, running a script that slowly pulls the URLs from the 70 domains I've targeted. Each page it pulls, it parses all links available on the page, adds them to a database, and repeats the process over and over. I do not pull any external links that exist outside each of the targeted domain, just focusing on the outline, structure, and content of each of the news and propaganda sites included.</p>
+<p>In an effort to not behave like a denial of service attack, I only pull and process a URL each 5 minutes. I repeat this for all URLs targeted 24 hours a day. Some of the websites have just a couple hundred pages, but others are already in the 20 to 50K range&nbsp;and growing. I'll keep pulling URLs, adding new URLs, and scaling the compute and storage capacity as needed, and as I can afford.&nbsp;</p>

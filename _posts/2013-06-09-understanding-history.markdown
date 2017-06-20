@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Understanding History'
+---
+<h2>Understanding History</h2>
+<p>Understanding history is critical to understanding where we are going.  Calling this document the "history" of web APIs seems kind of silly.  We are actually talking about a span of 13 years.  But there are so many important lessons to be learned from the approach of these API pioneers, we can't ignore this history.  If the technologists had their way, APIs would have purely been successful in the period of commerce, but with the radical innovation of companies like Amazon, Twitter and Twilio, we now understand that APIs needed several essential ingredients to succeed:  commerce, social, cloud and mobile.</p>
+<p>Of course, all of this has to make money, but APIs need to be scalable, while also delivering the meaningful tools, services and resources that are important end users, otherwise none of this matters.    As we stand solidly in the mobile period of API evolution, looking at the evolution to a period that will be more about devices and an internet of things (IOT), we need to understand our own history and how we've gotten here, to make sure we the right decisions for what is next.</p>
+<p>Web APIs are about delivering valuable, meaningful, scalable and distributed resources across the World Wide Web.  While Silicon Valley keep pushing forward with the next generation of technology solutions, we need to make sure that we know our past.</p>

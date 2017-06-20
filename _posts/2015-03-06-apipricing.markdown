@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'api-pricing'
+---
+<p><a href="http://api-pricing.apievangelist.com"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.jpg" alt="" width="150" align="right" /></a></p>
+<p><a href="http://api-pricing.apievangelist.com/">api-pricing</a> is my centralized, machine readable JSON format for tracking on the pricing for the APIs I track on. I begin recording details about the business models of the APIs I was monitoring some time ago, but recently I&rsquo;ve been working to formalize, and allow me to programmatically search, and filter APIs using this info.</p>
+<p>Much of the inspiration for this work has come from work done by John Musser in the area of APIs and business models, but has be recently driven by watching what Amazon has done in the area of pricing for their own cloud APIs. In my experience, the most mature areas of APIs have the most sophisticated pricing, and many of the new providers haven&rsquo;t quite figured out.</p>
+<p>I&rsquo;d like to help establish a standard format that can help bridge the mature pricing models used by API leaders, and develop more tooling and templates that new API providers can use to develop, and manage the monetization around the valuable API resources that they are serving up. With a lot of work, maybe we can eventually see more stability in how we make money from, and pay for the valuable API resources we use.</p>
+<p>As I publish more of the <a href="http://api-pricing.apievangelist.com/">api-pricing</a> files for the 700 companies I&rsquo;m tracking on, I&rsquo;ll publish to Github. I&rsquo;m also pushing the definition of my api-pricing format by applying to my own API services, some of which endorse a wholesale approach to API monetization--we'll see how it goes.</p>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'WHOIS Lookup For Each Fake News Domain'
+---
+<p>This work is all about domain literacy, so I needed to profile each of the domains included in this project. <a href="https://www.whoisxmlapi.com/">I am using the WhoisXMLAPI to pull the details behind each domain</a>. It's not a surprise, but all of the news domains provide publicly available details on individuals and company behind, where about 90% of the fake and propaganda news sites protect this information.&nbsp;</p>
+<p>More manual work will be needed to profile each of the news I'm targeting. Pulling WHOIS information just represents what I could do automatically. I'm only publishing the name, organization, and city, state, and country for each domain--if its present. I'm unsure where I will go with this area of the research next. I want to show more details about who is behind each news site and include in the available "domain literacy" details, but will need to think about further--I am guessing much of this work will be manual.</p>
+<p>My goal is to provide enough data, so that some sort of fingerprint can be established for real news vs. propaganda and fake news. There are many shades to this discussion, and ultimately I want to leave it up to each individual toolmaker who builds upon this data, and the end-user of these tools to make the decision for themselves. I'm not in the business of identifying fake news, just using APIs to provide more details about each domain, and what they are up to.</p>

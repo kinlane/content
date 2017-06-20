@@ -1,0 +1,5 @@
+---
+layout: post
+title: 'Interesting Tools for Evolving Your Social Graph'
+---
+I was reading, <a href="http://www.techcrunch.com/2008/01/28/delver-comes-out-of-stealth-with-a-new-twist-on-social-search/">Delver Comes Out Of Stealth With a New Twist on Social Search</a> on Techcrunch tonight.<br /><br />Delver is a social graph search engine that allows you to easyily connect with people.<br /><br />Delver is attempting to solve two key search-related problems:<br /><br />The first is that current search engines do not take into account the identity of the searcher.<br />The second is that current search engines do not allow users to search for information created and referenced by their own social graph.<br /><br />Delver seems to be part of the first wave of social graph tools that will allow you to manage, grow and track your social graph.

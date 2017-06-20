@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Contributing To The Management Lifecycle'
+---
+<h2>Contributing To The Management Lifecycle</h2>
+<p>The early motivation for generation machine readable definition using Swagger, was the promise of being able to keep your API documentation up to date, while also providing users with an interactive way to explore and learn about your API.  Quickly API providers also developed tooling for generating of client side API libraries in all the popular programming languages, including but not limited to PHP, Python, Ruby, JavaScript, Node.js, Java, C# and Go.</p>
+<p>Machine readable API definitions can also be used to generate permanent or temporary sandbox environments for API consumers, allowing for environments that developers can learn about an API, before they put the API to use in a real production environment. Like documentation, sandbox environments can be costly and time consuming to deploy and keep up to date, and API definitions can help make it much more painless and automated.</p>
+<p>As the world of API design expands, I think we should stop regularly, and take a look at our API management workflow, to see how a central API definition can help manage or even automate other areas of our API operations. While we will never automate all aspects of API management, API definitions can provide a central truth that can be applied in many unexpected ways.</p>

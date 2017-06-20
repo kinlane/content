@@ -1,0 +1,6 @@
+---
+layout: post
+title: 'Status'
+---
+<h1>Status</h1>
+<p>Providing a status dashboard for an API is critical in building trust and goodwill within an API community. Beyond providing communication and much needed awarenes amongst users, a status dashboard provides a very public bar for API operations, stability and reliablity. Something that can go a long way in setting an API apart from the growing number of API driven resources.</p>

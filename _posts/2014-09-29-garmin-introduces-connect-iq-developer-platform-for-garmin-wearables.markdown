@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'Garmin Introduces Connect IQ Developer Platform for Garmin Wearables'
+---
+<hr />Garmin International Inc., a subsidiary of Garmin Ltd., announced Connect IQ, the company's first-ever open platform allowing developers to create third-party applications for Garmin wearable products. Connect IQ will be available on a select group of Garmin wearables in 2015. However, developer preview materials, including the Garmin Connect IQ SDK, are available now on the Garmin Developer website.
+Garmin produces a variety of products, including Internet-connected active-lifestyle products such as handhelds, watches and wearables. Connect IQ allows developers to build third-party applications and widgets for Garmin devices that utilize Garmin platform features, such as GPS technology, connectivity and autonomy. According to the Garmin developer website, developers can use the Connect IQ SDK to create apps that build on the features of Garmin products, such as:
+The Connect IQ SDK uses a brand-new programming language created and developed by Garmin called Monkey C, which is similar to the languages Java, Ruby and Python.
+Garmin is the latest company to announce a platform designed for developers to enter the wearables market. According to a Gartner press release published last week, the worldwide smartwatch and wristband market is about to take off and by 2016, 40% of consumer wrist-worn devices will be smartwatches. Annette Zimmermann, research director at Gartner, says in the press release:
+We are currently seeing two opposing trends in the market with regards to form factor evolution. On the one hand. there are vendors offering smart wrist-wearables in a familiar watch-like form factor. On the other hand. in the past six to nine months, we have seen vendors launching products that resemble the early fitness wristbands, but come with displays that add significant functionality, including message and call alerts. These cross-over products are generally marketed as fitness devices, but with the strong slant toward the communication aspect.
+Wearables is a hot topic these days, with many news articles covering Internet-connected wearables like the Apple Watch, Samsung Gear and Sony SmartWatch. ProgrammableWeb has published quite a few articles about wearables and IoT devices recently, including:
+Developers interested in learning about the Garmin Connect IQ platform can find more information on the Garmin developer website.
+<br /><br />URL: http://feedproxy.google.com/~r/ProgrammableWeb/~3/J5W3SvNoeIM/26<br />

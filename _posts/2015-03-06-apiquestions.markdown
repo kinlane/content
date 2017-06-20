@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'api-questions'
+---
+<p><a href="http://api-questions.apievangelist.com"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png" alt="" width="150" align="right" /></a></p>
+<p><a href="http://api-questions.apievangelist.com/">api-questions</a> is my centralized, machine readable JSON format for storing the answers I need, regarding my APIs, and those that I track on as part of my monitoring. Each question is a simple question / answer, trying to keep things simple, yet machine readable.</p>
+<p>api-questions was born out of trying to make a machine readable terms of service format, but after studying approaches like TOS Didn&rsquo;t Read, I felt that if I made it about TOS, it wouldn&rsquo;t be something end-users would pay attention to. To keep api-questions simple, and understandable, but make it also machine readable I wanted to distill it down to just the basic.</p>
+<p>I&rsquo;m answering just about anything I need to know about API operations using api-questions, from does an API have oAuth, to can I delete my account. I&rsquo;m using api-questions to better understand how APIs work, and to develop an index that I can search against.</p>
+<p>api-questions is a machine readable format, meant to live in the public repository of a micro-services Github definition. I&rsquo;m referencing api-questions in my APIs.son format, allowing me to search for APIs with specific answers to questions, or even APIs who haven&rsquo;t answered specific questions.</p>
+<p>My goal is to develop a core set of questions, drived from what I ask of the APIs that I monitor regularly, then encourage API providers to answer the questions themselves. I will be hand-crafting the first wave of api-questions files for public APIs, but it is something I&rsquo;m hoping will catch on beyond just my initial work.</p>
+<p>Ultimately, I want to teach end-users to ask these questions of the platforms they use, always starting with the first question: Does this service have an API? Then from there, go deeper, and ask the harder questions like do I own my data, and can I take my data out of the platform. I want these questions to be accessible by anyone, but also allow for easy, machine readable access to the answers that are provided by api-questions.</p>

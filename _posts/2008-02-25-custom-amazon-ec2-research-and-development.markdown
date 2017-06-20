@@ -1,0 +1,5 @@
+---
+layout: post
+title: 'Custom Amazon EC2 Research and Development'
+---
+We are now offering custom Amazon EC2 Research and Development services.  If you are in need of custom EC2 instance deployment, feel free to contact us.<br /><br />Timothy Meredith and I will be pioneering several custom deployments for clients and figured we'd offer these services to all other interested parties.<br /><br />Pretty much any type of EC2 deployment on the Linux platform is where we are focused.  Some examples are:<br /><ul class="mainlist"><li>Web Server</li><li>Database Server</li><li>Email Server</li><li>SPAM Filter</li><li>LDAP Server</li><li>Video Server</li><li>Image Server</li><li>Utility Processing (Image resizing, video manipulation, etc.)</li></ul>We will be posting specific packages and installations as they become available.  Feel free to email <a href="mailto:kinlane@gmail.com">kinlane@gmail.com</a> if you have a specific instance configuration in mind that you need.

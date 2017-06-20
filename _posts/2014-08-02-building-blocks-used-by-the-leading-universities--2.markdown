@@ -1,0 +1,5 @@
+---
+layout: post
+title: 'Building Blocks Used By The Leading Universities - 2'
+---
+<p><span>These building blocks are meant to be components, that other institutions can consider when planning, deploying and managing their own API efforts. It is not meant to be complete or definitive list, it is meant to act as a guide, allowing IT or even student organizers to better understand how APIs can help universities better deploy web, mobile and single page applications that support campus operations, or possibly be integrated into the classroom.</span><br /> <br /> <span>This list of building blocks will continue to evolve and change as I monitor APIs in higher education, talk to folks who play an active role in these campus API efforts, and learn more about how they view the API design, deployment, and management life cycle. Currently I&rsquo;m seeing a wide range of motivations for deploying APIs on campus&mdash;hopefully with some more work I can better understand these motivations, and share more stories about the problems they solve, to help convince other institutions to follow the lead.</span></p>

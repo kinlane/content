@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'API Management'
+---
+<h2>API Management</h2>
+<p>Each of the pioneering API providers have established their own approach to API management through trial and error. But with the help of API management providers like <a href="http://3scale.net">3Scale</a>, <a href="http://apigee.com">Apigee</a>, <a href="http://mashery.com">Mashery</a>, there is no shortage of API management services available on the market today for people looking to get into the game.</p>
+<p>API management is not usally about a single API, but providing a portal where private, partner and public developers can access a wide variety of API resources to use in many different applications. Common building blocks have merged for delivering API resources to consumers, but exactly how you implement the technology and business operations of your API can be a significant amount of work.</p>
+<p>Some API providers cobble together their API management using existing SaaS and PaaS or their existing hosting situation. They will bind disparate service like Google Groups, Wordpress and Github into a web of online resources intended to deliver an API portal on a budget.</p>
+<p>Other companies use existing API management as a service providers like <a href="http://3scale.net">3Scale</a> or <a title="Apiphany" href="http://apiphany.com">Apiphany</a>. These companies bring the tools, resources and experience necessary to go from 0 to 60 in any API management campaign without reinventing the wheel, while also taking advantage of existing best practices.</p>
+<p>API management has been well established in the last 3 years, if you have the resources to do yourself, at least take the time to understand what has been done to date, and do your homework on best practices of API management. If you do not have the experience and resources make sure and talk to one of the many API management providers currently available. They can help.</p>

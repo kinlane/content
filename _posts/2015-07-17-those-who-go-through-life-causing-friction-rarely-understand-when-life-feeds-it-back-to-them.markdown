@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'Those Who Go Through Life Causing Friction Rarely Understand When Life Feeds It Back To Them'
+---
+<p><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-static.png" alt="" width="200" align="right" /></p>
+<p>I was just watching a gentleman playing a TV show on his laptop, full blast, without headphones at the airport gate while I was waiting for my flight. Everyone one around him was obviously annoyed, staring at him, and he would look up regularly, with a defiant look on his face. It reminded me of my older brother who would similar things.</p>
+<p>My brother was a professional asshole. He actually took pride in it. I would ask why are you doing that? He'd smile, and just say that if they had the chance, other people would do it. Almost 90% of the time I was around him, he had complete disregard for people, animals, and anything living around him.&nbsp;</p>
+<p>The other 10% of the time, he would be genuinely hurt, and very insecure about the world. He was genuinely confused why things were so hard for him. He'd always comment on how successful I am, and things were so easy for me, and for him everything was hard, and the world was alway out to get him. Ultimately feeding his disregard for other people, everyone was always out to get him.&nbsp;</p>
+<p>This young man at my gate has the same energy as my brother, and I'm sure he is just as confused as why at other points in his life, when things are so hard. This is something I think many folks do not understand about the world, that we are all in this together, and what you dish out almost always come back your way. Call it Karma, or whatever you want, but its true. Almost every time in my life I was feeling like the world was out to get me, I could step back, reflect and associate it to something fucked up I had done, or some lesson I needed.</p>

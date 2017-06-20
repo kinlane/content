@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Commerce'
+---
+<h2>Commerce</h2>
+<p>As soon as the first .COM bubble burst, platforms were looking for innovative ways to syndicate products across e-commerce web sites, and web APIs, built on the backs of existing HTTP infrastructure proved to be the right tool for the job.</p>
+<p>With this in mind, a handful of&nbsp; tech pioneers stepped up to define the earliest uses of APIs for sales and commerce management, kicking-off a ten year evolution that we can now call the early history of web APis.</p>
+<p>However, even with the early success of APIs, they wouldn't reach maturity without several other critical ingredients that would prove as important as essential commerce variables like products, payments and sales.&nbsp;</p>

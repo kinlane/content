@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'If We Cannot Keep the Pipes Transparent And Accessible We Are Screwed'
+---
+<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/transparent-pipes.png" alt="" width="200" align="right" /></p>
+<p>As I look through the <a href="http://theapistack.com/">800+ companies that I'm tracking on doing interesting things in the API space</a>, I can't help but think about how important it is that we encourage API providers to inject as much transparency into their operations as possible. Something that includes providing end-users consistent account management, and oAuth controls, as well as developer transparency.</p>
+<p>It is not enough to just make API resources are publicly available, you have to be transparent in your pricing, roadmap, terms of use, and overall API operations--you have to be honest, open, and communicate with your API consumers, and end-users.</p>
+<p>There are a <a href="http://apievangelist.com/2014/05/06/remembering-why-this-whole-api-thing-is-working--apidays-berlin/">number of factors that contribute to all of this API shit working</a>, but it really comes down to some pretty basic concepts around transparency. It is up to you regarding just how much transparency makes sense, but if we don't keep the pipes open and transparent, shit will only get weirder, and the entire API sector will suffer--I don't care how well designed your APIs are.</p>

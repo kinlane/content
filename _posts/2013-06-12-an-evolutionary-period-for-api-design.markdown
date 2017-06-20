@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'An Evolutionary Period For API Design'
+---
+<h2><span>An Evolutionary Period For API Design</span></h2>
+<p>Good API design practices, tools and services have a major impact downstream within API initiatives. As more companies reach a maturity point with their API efforts, the desire to refine API design before incurring the costs associated with deployment and management, while working to mitigate risks, will only increase.</p>
+<p>API design has been historically hitched to RESTful dogma and early SOA practictioners vision of API discovery. As the web API world matures, API design is also becoming about deployment, documentation, code samples, testing, monitoring, and discovery, and other essential building blocks of a healthy API lifecycle.</p>
+<p>API design should be first and foremost about delivering quality, consistent and meaningful API endpoints, while also delivering value for management, discovery and integration. In coming years, we will see specific industries realize their role in leading API design--energy, healthcare, transportation, environment, and other industries will help define meaningful API design standards for their industries through partnerships, government leadership, and most importantly, successful patterns established by existing API leaders.</p>
+<p>My research project into API design is meant to identify the evolving building blocks, tools and companies that are contributing to the success of the API design sector. &nbsp;More resources are provided below as an appendix, but you can also find everything published to Github at <strong><span style="text-decoration: underline;">design.apievangelist.com,</span> </strong>while also being published as this white paper to provide the largest possible reach for this valuable information.</p>
+<p>The API industry has come of age, and things are rapidly evolving when it comes to defining best practices and providing tools that will&nbsp; assist companies and developers achieve the best possible API design--putting us in a very important period for the API economy.</p>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'Managing The Jobs That Drive Everything'
+---
+<p>I am pulling the URLs for each domain, and the number of times it has been shared on Facebook. I have 16 separate&nbsp;servers running with separate CRON jobs to support all of this work. I have 147 separate jobs running at any point in time to accomplish what I'm loking to do. Two separate jobs are added for each domain I add into the system.</p>
+<p>If I go beyond 6 domains being pulled by any of the 15 Facebook Graph servers, the jobs only run every 10, 20, or 30 minutes, with the default being every five minutes, when there are only five domains. The more servers I can add, the more I can scale this "horizontally", and speed up the process. The adding of each server is currently manual, but once the IP address is added to the system, it will immediately be assigned jobs.&nbsp;</p>
+<p>In addition to indexing the URLs, and pull from the FB Graph API, I have a number of other jobs running to clean up data&nbsp;and make available for reporting on in real-time. Right now things are elastic&nbsp;and automated. I can add new domains, and servers, and it will just keep chugging along pulling the data it needs. The jobs&nbsp;are&nbsp;self-creating--meaning it can be deleted, and it will rebuild itself, adding and removing jobs as it needs to scale&nbsp;and maximize the pulling of data.</p>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: 'Example of Social Media in Podcast about Choosing a Doctor in the Digital Age'
+---
+Was listening to <a href="http://www.npr.org/templates/story/story.php?storyId=18349445">NPR today and a podcast on Choosing a Doctor in the Digital Age</a>.  It was great about how to use online review sites to find out what people are saying about doctors.<br /><br />Health consumers are increasingly shopping online for doctors through peer-based  sites like FindADoc.com, DoctorScorecard.com, and even local city search sites.<br /><br />Great example of how grassroots growth in online usage is influencing how business is conducted.  More evidence on how businesses should be paying attention to social media and how it influences their business.<br /><br />Review sites and Question and Answer sites are becoming more and more important for consumers.
